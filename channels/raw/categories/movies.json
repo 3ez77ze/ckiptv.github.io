@@ -168,6 +168,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bZQGzeEyald0Ck",
+    "name": "Bollywood Classic",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oRcDPIbbTYiK2b",
+    "name": "Bollywood HD",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5fPdHbPWBlhNGl",
     "name": "Boreal",
     "iptv_urls": [
@@ -212,6 +234,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FCnEtAldIhv8VP",
+    "name": "Cinecanal",
+    "iptv_urls": [
+      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0pCaJvUQjUH7zI",
+    "name": "Cinema",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mon",
+    "country": "mn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HHYr8wd1E9ioQk",
     "name": "Cinema",
     "iptv_urls": [
@@ -220,6 +264,17 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hkyMh1FkUqryxv",
+    "name": "Classic Cinema",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -264,6 +319,28 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U1rdBplrQIr9Ew",
+    "name": "EBS Cinema",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "amh",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1d9sPba2ArEw86",
+    "name": "Film4 HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -399,6 +476,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6K6oFgTHq5fj7V",
+    "name": "Hero",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FRDoZrDehG1Lc7",
     "name": "Home Plus",
     "iptv_urls": [
@@ -473,6 +561,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FJT1T5Bg3eMVVa",
+    "name": "Itage TV",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "yor",
+    "country": "ng",
     "isGeoBlocked": false
   },
   {
@@ -617,6 +716,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U9RR25VRV55FfP",
+    "name": "MovieBox",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mon",
+    "country": "mn",
     "isGeoBlocked": false
   },
   {
@@ -874,17 +984,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "clglnKNLhH9d22",
-    "name": "Rakuten TV Comedy Movies Finland",
-    "iptv_urls": [
-      "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WZiR0UbRbq9wCY",
     "name": "Rakuten TV Comedy Movies Germany",
     "iptv_urls": [
@@ -940,17 +1039,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EaeTZ1F3YbDKxk",
-    "name": "Rakuten TV Drama Movies Germany",
-    "iptv_urls": [
-      "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CkXWZHW3kHwT7c",
     "name": "Rakuten TV Drama Movies Italy",
     "iptv_urls": [
@@ -969,6 +1057,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tofHYJp7SflK4T",
+    "name": "Rakuten TV Drama Movies UK",
+    "iptv_urls": [
+      "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1105,6 +1204,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H2qb0hwWTVm9bz",
+    "name": "ServusTV HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ntFXvg9cVQFfHp",
     "name": "Shemaroo Josh",
     "iptv_urls": [
@@ -1193,6 +1303,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SGCez0VJRFjGUW",
+    "name": "TF1 Series Films",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "q642f1lR53cD10",
     "name": "TVCARiB Cinema",
     "iptv_urls": [
@@ -1201,6 +1322,17 @@
     "youtube_urls": [],
     "language": "nld",
     "country": "sx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1SYV9BlJ7AcbyN",
+    "name": "TVS Drive In Movie",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1304,6 +1436,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ksgzBwpypvyJ3L",
+    "name": "Zylo Emotion' L",
+    "iptv_urls": [
+      "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "04EoHFS3oATwtH",
+    "name": "Zylo ScreamIN",
+    "iptv_urls": [
+      "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wIP1vVYNV6iQvd",
     "name": "Детское кино International",
     "iptv_urls": [
@@ -1353,17 +1507,6 @@
     "name": "Патриот (576i)",
     "iptv_urls": [
       "https://catchup.videoline.ru/asvtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ujlkE2Qc3sujr0",
-    "name": "Сити Эдем КиноДетектив",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/41327/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

@@ -23,6 +23,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qZ2q0f5qkl9NEZ",
+    "name": "Chef Champion",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Knc0z9OmSpjhaI",
+    "name": "Chef Roc Show",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "h07WOJZbzIu3Iu",
     "name": "Cooking Panda",
     "iptv_urls": [
@@ -112,6 +134,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zSi1ovpu9pEJVa",
+    "name": "Mad Dog and Merrill",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6AoHYDpnv89YBf",
     "name": "Roya Kitchen",
     "iptv_urls": [
@@ -126,6 +159,17 @@
     "nanoid": "hAcFI08ZNbAHCM",
     "name": "Tastemade",
     "iptv_urls": [
+      "https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hAcFI08ZNbAHCM",
+    "name": "Tastemade",
+    "iptv_urls": [
       "https://tastemade-xumo.amagi.tv/playlist.m3u8",
       "https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8"
     ],
@@ -133,6 +177,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "hAcFI08ZNbAHCM",
+    "name": "Tastemade",
+    "iptv_urls": [
+      "https://tastemade-aus-tmina-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-intl-aus-rakuten-eu/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hAcFI08ZNbAHCM",
@@ -178,16 +233,5 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "XZJQPO8c8hmgew",
-    "name": "Сити Эдем Рецепты Гурмана",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/47516/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
   }
 ]

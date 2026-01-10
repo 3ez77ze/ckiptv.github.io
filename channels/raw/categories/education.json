@@ -22,14 +22,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K7uPcecXAmI"
+    "nanoid": "sqyRj6w6s9a5QQ",
+    "name": "Animaux",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8"
     ],
-    "language": "pol",
-    "country": "pl",
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -37,6 +37,17 @@
     "name": "ARD-alpha",
     "iptv_urls": [
       "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g8Hv6pDk4jg73i",
+    "name": "ARD-alpha HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -471,6 +482,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "avcRNsWqoTWnAw",
+    "name": "Education",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mon",
+    "country": "mn",
     "isGeoBlocked": false
   },
   {
@@ -927,6 +949,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OXGlbL1GPOcQMj",
+    "name": "Rai Scuola HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z68J7dfDGHfqNu",
     "name": "Red Apple 21 (Fairfax County Public Schools)",
     "iptv_urls": [
@@ -1037,25 +1070,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g7YtvRUN199O67",
-    "name": "TV UG",
+    "nanoid": "AOK2yURwDU45yn",
+    "name": "TV UJAT (XHUJAT-TDT)",
     "iptv_urls": [
-      "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8"
+      "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VxXPHwWoMl0QhJ",
-    "name": "TV Universidad",
-    "iptv_urls": [
-      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {

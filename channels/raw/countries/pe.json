@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2OfelL9lkYifhd",
     "name": "Auténtica Televisión",
     "iptv_urls": [
@@ -176,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8VadQ9bvVXyzrj",
-    "name": "Intuitiva TV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/cableperu/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lM6iZ019g4zRqa",
     "name": "JN19",
     "iptv_urls": [
@@ -213,6 +191,28 @@
     "name": "La Fabulosa Radio y TV",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8004/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QB6XHUNErOPzQ5",
+    "name": "Latina",
+    "iptv_urls": [
+      "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OJJQkfx9y7eg2Z",
+    "name": "Latina Clasicos",
+    "iptv_urls": [
+      "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -408,17 +408,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wbr6x2NZ3c23qF",
-    "name": "Señal Perú TV",
-    "iptv_urls": [
-      "https://livestream.perucast.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NWQzBG1ASDZW7k",
     "name": "Sol Televisión",
     "iptv_urls": [
@@ -445,6 +434,28 @@
     "name": "Teleselva",
     "iptv_urls": [
       "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kM9f6SL02cl9SX",
+    "name": "Telesur Camana",
+    "iptv_urls": [
+      "https://telesurnew.b-cdn.net/hls/camana.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AKNtFFRrBkrePj",
+    "name": "Telesur Moquegua",
+    "iptv_urls": [
+      "https://telesurnew.b-cdn.net/hls/moquegua.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

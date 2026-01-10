@@ -37,7 +37,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-7Gap1qqHuQ"
+      "https://www.youtube-nocookie.com/embed/eIeeYSAz-lw"
     ],
     "language": "jpn",
     "country": "jp",
@@ -94,6 +94,17 @@
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xxt6pP3Jqt3MeP",
+    "name": "BBC Earth Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -185,6 +196,7 @@
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "iptv_urls": [
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
       "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
       "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8"
     ],
@@ -284,6 +296,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T7TXmLpBD9IwXz",
+    "name": "HRT 3",
+    "iptv_urls": [
+      "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hrv",
+    "country": "hr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8BTlRgfNWp7SGA",
     "name": "India TV Aap Ki Adalat",
     "iptv_urls": [
@@ -351,6 +374,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AbcJxYxf3cyf3H",
+    "name": "NatureTime",
+    "iptv_urls": [
+      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JGg2rFfUUHYtg9",
     "name": "Persiana Docs",
     "iptv_urls": [
@@ -362,6 +396,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "iptv_urls": [
+      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -370,6 +415,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0mulGVhtSW9kDC",
+    "name": "RT Documentary Russian",
+    "iptv_urls": [
+      "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },

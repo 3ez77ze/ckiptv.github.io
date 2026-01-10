@@ -22,21 +22,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYPaX2UVL5PBUV",
-    "name": "13 Humor",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MTtDWfVcQCQ9Ls",
     "name": "30A Ridiculous TV",
     "iptv_urls": [
       "https://30a-tv.com/feeds/720p/63.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OoTZbjtjjfRPgJ",
+    "name": "Camera Smile",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -63,6 +63,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nj8aLvvoJDsy5b",
+    "name": "Comedy Central HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -201,6 +212,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s3CR0taCvYhOMx",
+    "name": "Nick/Comedy Central +1 HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rD66Oim1zZv8fD",
     "name": "Persiana Comedy",
     "iptv_urls": [
@@ -223,17 +245,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GJszJiZnoXQ"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4VE8AYBTYbd8ii",
     "name": "Sirippoli TV",
     "iptv_urls": [
@@ -253,6 +264,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MjP0Gu7jfIZvWL",
+    "name": "TVS Comedy Network",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   }
 ]

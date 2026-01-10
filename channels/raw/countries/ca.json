@@ -158,6 +158,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nuCkj2isILRO5a",
+    "name": "EET TV",
+    "iptv_urls": [
+      "https://eu.streamjo.com/eetlive/eettv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S7zqMtHqIIs8Az",
     "name": "English Speeches: Learn English",
     "iptv_urls": [],
@@ -361,7 +372,8 @@
     "nanoid": "Mv6EQSLomOzZH0",
     "name": "IIPC TV",
     "iptv_urls": [
-      "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8"
+      "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+      "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -705,6 +717,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FRbxkA10ch9vPV",
+    "name": "Quo Vadis Ministry TV",
+    "iptv_urls": [
+      "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vYhff99inYZrDY",
     "name": "Radio Tele Evangile Sans Limite",
     "iptv_urls": [
@@ -712,17 +735,6 @@
     ],
     "youtube_urls": [],
     "language": "fra",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NYodd4ZllT4qNK",
-    "name": "Sikh Spiritual Centre Rexdale",
-    "iptv_urls": [
-      "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1130,17 +1142,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "26wbYyZD2WNH5P",
-    "name": "TV Punjab",
-    "iptv_urls": [
-      "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
     "country": "ca",
     "isGeoBlocked": false
   },

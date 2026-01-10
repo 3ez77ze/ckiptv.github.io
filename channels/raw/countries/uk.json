@@ -103,6 +103,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Xxt6pP3Jqt3MeP",
+    "name": "BBC Earth Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zK7yBiaKTXUpou",
     "name": "BBC Four UK HD",
     "iptv_urls": [
@@ -110,6 +121,28 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qeGibjiweoCaEb",
+    "name": "BBC Four/CBeebies",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tH0PM0L3QcvXyJ",
+    "name": "BBC Lifestyle Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -126,10 +159,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nDcsFjMY51qN6T",
+    "name": "BBC News Asia Pacific",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A7FjWEoxfZfQRg",
     "name": "BBC News Europe",
     "iptv_urls": [
-      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+      "https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -174,9 +219,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bxrLpOnIw2cIku",
+    "name": "BBC Three/CBBC",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EohUZfaHu9Fw27",
     "name": "BBC Two HD",
     "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8",
       "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
     ],
     "youtube_urls": [],
@@ -229,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PRtN8bBPIvQbK5",
+    "name": "Brit Asia TV",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RGisQUNDzBMFhg",
     "name": "Canaf54 TV",
     "iptv_urls": [
@@ -251,12 +319,56 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1NS02kDPqI5WSa",
+    "name": "CBeebies Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BoatqKhgOKJ5e1",
+    "name": "Channel 4 UK HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HAM5NtxhT1JB0c",
+    "name": "Channel 5 HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1Rki2QXOUbCd5",
     "name": "Classic Mr Bean",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/lldsi8ItNaI"
     ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B3ZHYgpHFJUrsy",
+    "name": "CNBC Europe HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -269,17 +381,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g3osCjeJAmA"
-    ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -302,6 +403,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eR1xoR8d2AHyV1",
+    "name": "DAZN Combat",
+    "iptv_urls": [
+      "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -372,13 +484,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bHHLvpa9Q6rWNj",
-    "name": "Frecuencia Musical TV",
+    "nanoid": "1d9sPba2ArEw86",
+    "name": "Film4 HD",
     "iptv_urls": [
-      "https://s2.tvdatta.com:3307/hybrid/play.m3u8"
+      "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -578,6 +690,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gys71zV2iZxyaQ",
+    "name": "ITV2",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jZuXXsqNOFPOWg",
+    "name": "ITV3",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2pVze4CUDh4mrp",
+    "name": "ITV4",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1ofGe1QGySoTAU",
     "name": "Kanal Jadid",
     "iptv_urls": [
@@ -611,6 +756,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PPjzXf8A2MSgZU",
+    "name": "Love Pets",
+    "iptv_urls": [
+      "https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dp1Wrx1sEcGiC5",
     "name": "Loveworld TV",
     "iptv_urls": [
@@ -629,6 +785,39 @@
     ],
     "youtube_urls": [],
     "language": "mal",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LbTx61exNziTLe",
+    "name": "Miracle TV",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FeQiCZUhzv3lT3",
+    "name": "Moonbug Kids",
+    "iptv_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QOLpgU2mp2Q6Gb",
+    "name": "More4 HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -758,6 +947,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IfkJanzGXFP1d9",
+    "name": "MyZen Wellbeing TV",
+    "iptv_urls": [
+      "https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-rakuten/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n2UntBRWIK7zqO",
     "name": "Ninja Warrior",
     "iptv_urls": [
@@ -802,6 +1002,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XZczg4azCqaOYB",
+    "name": "NOW 70s",
+    "iptv_urls": [
+      "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vnFJqEonENKTpG",
     "name": "Now 80s",
     "iptv_urls": [
@@ -810,6 +1021,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FScdOzHjKziX4k",
+    "name": "NOW 80s",
+    "iptv_urls": [
+      "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -836,9 +1058,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nhxyWnxbL3kVsl",
+    "name": "NOW Rock",
+    "iptv_urls": [
+      "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v69UzxTpxlGJCh",
     "name": "Pop",
     "iptv_urls": [
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
       "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1086,6 +1320,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PTj7LQOzasSv5q",
+    "name": "Trace Hits",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "McADRCgZrX1wEb",
     "name": "True Lives",
     "iptv_urls": [
@@ -1178,7 +1423,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MukT3Q-xz7k"
+      "https://www.youtube-nocookie.com/embed/_HoPrHJ9CxQ"
     ],
     "language": "eng",
     "country": "uk",
@@ -1188,6 +1433,7 @@
     "nanoid": "pmINkM6RSJSVHl",
     "name": "WildEarth",
     "iptv_urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-xumo.amagi.tv/master.m3u8"
     ],
     "youtube_urls": [],

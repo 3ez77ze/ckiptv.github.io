@@ -357,8 +357,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
-      "https://video.oct.dc.gov/out/u/DCC.m3u8"
+      "https://video.oct.dc.gov/out/u/15_12.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -605,6 +604,17 @@
     "youtube_urls": [],
     "language": "kor",
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "30bfOGEz7cdNL8",
+    "name": "LCP",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -918,6 +928,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UIPjkMitEOuZ0j",
+    "name": "Parliament TV",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mon",
+    "country": "mn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "iptv_urls": [
@@ -1014,28 +1035,6 @@
     ],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RbOtxF7iZNzUEr",
-    "name": "RTM Parlimen (Dewan Negara)",
-    "iptv_urls": [
-      "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b9eQGrQfCzFYHL",
-    "name": "RTM Parlimen (Dewan Rakyat)",
-    "iptv_urls": [
-      "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "my",
     "isGeoBlocked": false
   },
   {
@@ -1177,7 +1176,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-ygUHSi0PSA"
+      "https://www.youtube-nocookie.com/embed/WCr-liYgnDo"
     ],
     "language": "por",
     "country": "br",
@@ -1393,17 +1392,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F2xwfHx05Hn1Zy",
-    "name": "Wolcott Governmental TV (Wolcott CT)",
-    "iptv_urls": [
-      "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
     "iptv_urls": [
@@ -1445,6 +1433,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

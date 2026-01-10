@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eko7uFhNP2g6vo",
+    "name": "Chile Channel",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chilechannel/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0QTowwNml7pc3D",
     "name": "Costa Rica Channel",
     "iptv_urls": [
@@ -108,6 +119,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "goNrMuzefDwskd",
+    "name": "Maldives TV",
+    "iptv_urls": [
+      "https://lana.psm.mv/live/mtv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "mv",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "u0r5JHswrz2Ecq",
@@ -250,6 +272,17 @@
     "youtube_urls": [],
     "language": "tgk",
     "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wOZe5xcKqXHvTH",
+    "name": "TVS Travel Network",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

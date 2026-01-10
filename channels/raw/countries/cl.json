@@ -11,10 +11,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYPaX2UVL5PBUV",
-    "name": "13 Humor",
+    "nanoid": "At9xDVwnRJnJwN",
+    "name": "13 Kids",
     "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C9uUCmX5l4Ryir",
+    "name": "Canal 9 Bío Bío Televisión",
+    "iptv_urls": [
+      "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DbKvAFoZa5ksBg",
     "name": "Canal ISB (Iglesia San Bernardo)",
     "iptv_urls": [
@@ -154,12 +165,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qv0qM0XdYgw"
+    "nanoid": "eko7uFhNP2g6vo",
+    "name": "Chile Channel",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -171,6 +182,17 @@
       "https://v2.tustreaming.cl/chiloered/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Eoeb9ldORywfM0",
+    "name": "CHV Noticias",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IZSwegwpX38"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -334,7 +356,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fBQYk4AgRUQ"
+      "https://www.youtube-nocookie.com/embed/ioBPVWkQAGM"
     ],
     "language": "spa",
     "country": "cl",
@@ -412,7 +434,9 @@
     "iptv_urls": [
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GS98LnprkY8"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -433,6 +457,18 @@
     "name": "Santa María Televisión",
     "iptv_urls": [
       "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0C2d9cgVcqnI9d",
+    "name": "SoloBáilalo",
+    "iptv_urls": [
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+      "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -490,17 +526,6 @@
       "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mvCL9CmKOhlNrJ",
-    "name": "Televisión del Senado",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MvUZca6QCwM"
-    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -722,6 +747,17 @@
     "iptv_urls": [
       "https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pWw7rH2muT8B7p",
+    "name": "Wapp",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

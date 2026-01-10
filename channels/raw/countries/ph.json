@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k1le9DNzsDpeDQ",
+    "name": "DZRH News TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QCMsndnFNPY"
+    ],
+    "language": "tgl",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RhkfgHInexT7iQ",
     "name": "Mindanow Network TV",
     "iptv_urls": [
@@ -51,17 +62,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iy4DzSWvO3GYHT",
-    "name": "Teleradyo Serbisyo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xZ6i4YuMV9M"
-    ],
-    "language": "tgl",
     "country": "ph",
     "isGeoBlocked": false
   },

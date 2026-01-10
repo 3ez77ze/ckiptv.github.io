@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "iptv_urls": [
+      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -116,7 +127,8 @@
     "nanoid": "D2NSPfcewUnhFP",
     "name": "BFM Business",
     "iptv_urls": [
-      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE"
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
+      "https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -181,6 +193,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4IwYgpiLrxHlWh",
+    "name": "Bloomberg TV Europe",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JPDh3cfdNqA9Zf",
+    "name": "Bloomberg TV Mongolia HD",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mon",
+    "country": "mn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "USmuuhVA4Jtz9O",
     "name": "Bloomberg TV US",
     "iptv_urls": [
@@ -228,6 +262,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7XcP1junyS1aZN",
+    "name": "CNBC",
+    "iptv_urls": [
+      "https://fl1.moveonjoy.com/CNBC/index.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "acbY5wCKKgtMnI",
     "name": "CNBC Arabiya",
     "iptv_urls": [
@@ -272,6 +319,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B3ZHYgpHFJUrsy",
+    "name": "CNBC Europe HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mEIRNL8QzgtqGN",
+    "name": "CNBC TV18",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9LN6MzHXKTHs5F",
     "name": "CNBC TV18 Prime HD",
     "iptv_urls": [
@@ -280,6 +349,17 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NkEL5gBuKfjJwr",
+    "name": "CNBC World",
+    "iptv_urls": [
+      "https://fl1.moveonjoy.com/CNBC_World/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

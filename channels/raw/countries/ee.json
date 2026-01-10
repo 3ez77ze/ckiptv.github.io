@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Q4KqdQEYA33v45",
-    "name": "DanceTV Chill AF",
-    "iptv_urls": [
-      "https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iJEOwv6A3pLbpA",
     "name": "DanceTV Deep House District",
     "iptv_urls": [
@@ -59,17 +48,6 @@
     "name": "DanceTV House Floor",
     "iptv_urls": [
       "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cfanZ222I0y1eN",
-    "name": "DanceTV Melodic Tech",
-    "iptv_urls": [
-      "https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

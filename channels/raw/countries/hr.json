@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "fKbltvx8aLsHQT",
-    "name": "Bravo! TV",
-    "iptv_urls": [
-      "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hrv",
-    "country": "hr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3l5doVjMXjwPIT",
     "name": "CMC TV",
     "iptv_urls": [
@@ -33,10 +22,32 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "enIKIkknsZ9r2w",
-    "name": "Extra TV",
+    "nanoid": "slWlDUbLMcYHFX",
+    "name": "HRT 1",
     "iptv_urls": [
-      "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
+      "https://webtvstream.bhtelecom.ba/hrt1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hrv",
+    "country": "hr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QFU5ZJnYCQuugW",
+    "name": "HRT 2",
+    "iptv_urls": [
+      "https://webtvstream.bhtelecom.ba/hrt2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hrv",
+    "country": "hr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T7TXmLpBD9IwXz",
+    "name": "HRT 3",
+    "iptv_urls": [
+      "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
     ],
     "youtube_urls": [],
     "language": "hrv",

@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1kGzlc1JUirLRX",
+    "name": "Action Hollywood Movies",
+    "iptv_urls": [
+      "https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OTtgOdMuzH3Ad4",
     "name": "ausbiz TV",
     "iptv_urls": [
@@ -73,6 +84,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aODKbBqnVbvVaT",
+    "name": "Breaking News by LeadStory",
+    "iptv_urls": [
+      "https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "au",
     "isGeoBlocked": false
   },
@@ -136,6 +158,17 @@
     "name": "CTB Perth News",
     "iptv_urls": [
       "https://news.ctbperth.net.au/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sQrkGzOeUBTke0",
+    "name": "Entertainment Hub",
+    "iptv_urls": [
+      "https://amg01447-samsungau-enthub-samsungau-ugr5u.amagi.tv/playlist/amg01447-samsungau-enthub-samsungau/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -231,10 +264,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WkdO8GadOSLajT",
+    "name": "MovieSphere",
+    "iptv_urls": [
+      "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ULQoyHDFz4lNdZ",
     "name": "Mr. Bean Animated",
     "iptv_urls": [
       "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uN8s1HXt717tW1",
+    "name": "MTRSPT 1",
+    "iptv_urls": [
+      "https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -268,6 +323,28 @@
     "name": "Project Runway",
     "iptv_urls": [
       "https://amg02189-amg02189c1-samsung-au-5798.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RaAuUrd4DsoNBL",
+    "name": "Pulse",
+    "iptv_urls": [
+      "https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t3FRxzQWFcum3k",
+    "name": "RCM",
+    "iptv_urls": [
+      "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -330,15 +407,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EpPKil5HdOVKkk",
+    "name": "The Wicked Tuna Channel",
+    "iptv_urls": [
+      "https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I3kjTb3ubS1fvS",
     "name": "TVSN",
     "iptv_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tq_d0MYs0DM"
-    ],
+    "youtube_urls": [],
     "language": "eng",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NI4PlSNS8oD27V",
+    "name": "WaterBear",
+    "iptv_urls": [
+      "https://amg01415-waterbearnetwor-waterbear-samsungau-gicbz.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsungau/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "au",
     "isGeoBlocked": false
   }

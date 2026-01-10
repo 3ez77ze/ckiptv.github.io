@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "lfimm51DMJXDoq",
+    "name": "2x2",
+    "iptv_urls": [
+      "https://liveovh011.cda.pl/enc117/2x2hdraw/2x2hdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eUdFR37xIskeb6",
     "name": "4 Fun Kids (576i) []",
     "iptv_urls": [
@@ -34,12 +45,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K7uPcecXAmI"
+    "nanoid": "5LVlwvpbjbu5ke",
+    "name": "Antena HD",
+    "iptv_urls": [
+      "https://liveovh009.cda.pl/enc114/antenatvhdraw/antenatvhdraw.m3u8"
     ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -320,6 +331,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dOfoUgpzKe4"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Zfbee02Fm1Nqwi",
     "name": "Telewizja Jaslo",
     "iptv_urls": [
@@ -452,6 +474,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2SfhuUEazfjthW",
+    "name": "TV Relax",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nj20BQj80Ao"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aY6u7qwNMI1Wgm",
     "name": "TVK Stella",
     "iptv_urls": [
@@ -477,7 +510,8 @@
     "nanoid": "fzamcn1eHJ76Mf",
     "name": "TVP Polonia",
     "iptv_urls": [
-      "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
+      "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
+      "https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -492,6 +526,41 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XOB3inPkwkHuWb",
+    "name": "TVP1",
+    "iptv_urls": [
+      "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
+      "https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8",
+      "https://liveovh011.cda.pl/enc115/tvp1hdraw/tvp1hdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ivWRsXTYxcLPRQ",
+    "name": "TVP2",
+    "iptv_urls": [
+      "https://liveovh011.cda.pl/enc115/tvp2hdraw/tvp2hdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4UCysSCkmhRS1I",
+    "name": "TVS",
+    "iptv_urls": [
+      "https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2490/u_sid/0/o/157767001/rsid/c6ef76cc-cde3-4b96-8684-3828e229c6d4/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.163.147*asn/u_srvc/81255/u_did/web_13KAuOjcvMvSypM1dvXHzz0O9IIFWwyq/type.live/chunklist-sid2756675719062283008-b2490000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },

@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "hXfBIFtewHiUsg",
+    "name": "DM Sat",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "srp",
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tGRgOGa9BjpssA",
     "name": "Narodna TV",
     "iptv_urls": [
@@ -48,6 +59,39 @@
     "name": "Radio Lola",
     "iptv_urls": [
       "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "srp",
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KIQgB9mIesIU9Y",
+    "name": "RTS 1",
+    "iptv_urls": [
+      "https://webtvstream.bhtelecom.ba/rts1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "srp",
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yqFuGEAiSRmDtb",
+    "name": "RTS 2",
+    "iptv_urls": [
+      "https://webtvstream.bhtelecom.ba/rts2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "srp",
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CGpEK7hW6CDfth",
+    "name": "RTS Svet HD",
+    "iptv_urls": [
+      "https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8"
     ],
     "youtube_urls": [],
     "language": "srp",
