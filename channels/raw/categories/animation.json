@@ -213,7 +213,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Bp68AR_WX-M"
+      "https://www.youtube-nocookie.com/embed/J_Q4jnakRgY"
     ],
     "language": "eng",
     "country": "ca",
@@ -295,6 +295,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1ov4rKCt7xdyVW",
+    "name": "Japanim TV",
+    "iptv_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -441,6 +452,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Gcj08gtWTVo"
+    ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pApkFb67wcPTJl",
     "name": "Soviet Toons: Ну, погоди!",
     "iptv_urls": [],
@@ -490,6 +512,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/JnAy1_w564s"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vxuvNL1pu9DfjK",
+    "name": "TokuSHOUTsu: Speed Racer",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kMKorkZTnOk"
     ],
     "language": "eng",
     "country": "us",
@@ -548,17 +581,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hzA9M1g8Uiyjea",
-    "name": "Xtrema Cartoons",
-    "iptv_urls": [
-      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {

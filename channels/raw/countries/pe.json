@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2OfelL9lkYifhd",
     "name": "Auténtica Televisión",
     "iptv_urls": [
@@ -132,17 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XzRqOxUzNRtPhH",
-    "name": "ECO Television",
-    "iptv_urls": [
-      "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "G0350UiME7kfbT",
     "name": "Exitosa",
     "iptv_urls": [
@@ -158,6 +158,17 @@
     "name": "Impacto Televisión",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8VadQ9bvVXyzrj",
+    "name": "Intuitiva TV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/cableperu/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -363,17 +374,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WPq32gb81NkkvQ",
-    "name": "RN Televisión",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3xHIJhktLp5hmp",
     "name": "RPP TV",
     "iptv_urls": [
@@ -390,6 +390,17 @@
     "name": "RSelvaTV",
     "iptv_urls": [
       "https://live.obslivestream.com/selvatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wbr6x2NZ3c23qF",
+    "name": "Señal Perú TV",
+    "iptv_urls": [
+      "https://livestream.perucast.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -434,6 +445,17 @@
     "name": "Telesur Camana",
     "iptv_urls": [
       "https://telesurnew.b-cdn.net/hls/camana.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AKNtFFRrBkrePj",
+    "name": "Telesur Moquegua",
+    "iptv_urls": [
+      "https://telesurnew.b-cdn.net/hls/moquegua.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -612,17 +634,6 @@
       "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3sCHCCSjqRabC1",
-    "name": "Willax Televisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/T0olgKDqtSE"
-    ],
     "language": "spa",
     "country": "pe",
     "isGeoBlocked": false

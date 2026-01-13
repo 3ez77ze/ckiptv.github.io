@@ -210,17 +210,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BlDlucmC1tn4xU",
-    "name": "Raciborz 24",
-    "iptv_urls": [
-      "https://video.raciborz24.pl/hls/test_high/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yVHVo5RwmcKcvS",
     "name": "Radio Czwórka",
     "iptv_urls": [
@@ -304,17 +293,6 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NflCgJO5tXk"
-    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -538,6 +516,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

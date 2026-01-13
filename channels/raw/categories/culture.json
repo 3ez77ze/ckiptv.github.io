@@ -78,6 +78,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qVg6FeIeH4mzo2",
     "name": "Aurora Arte",
     "iptv_urls": [
@@ -340,17 +351,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nuCkj2isILRO5a",
-    "name": "EET TV",
-    "iptv_urls": [
-      "https://eu.streamjo.com/eetlive/eettv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h9xUZ9qtOT3ejC",
     "name": "El 33 Originals",
     "iptv_urls": [
@@ -360,6 +360,17 @@
     "youtube_urls": [],
     "language": "cat",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -442,14 +453,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8BTaahrpIJaruI",
-    "name": "GipsyTv Wien",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/llUNTrkMbEY"
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
     ],
-    "language": "rom",
-    "country": "at",
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -550,17 +561,6 @@
     "youtube_urls": [],
     "language": "kur",
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -864,17 +864,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "iptv_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mos",
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qWijccdHGumaJp",
     "name": "Salira TV",
     "iptv_urls": [
@@ -920,17 +909,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7omf3emk4fDdL8",
-    "name": "STZ TV",
-    "iptv_urls": [
-      "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Am4Jb6RFmtHHBI",
     "name": "Superscreen TV",
     "iptv_urls": [
@@ -961,17 +939,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cWWftSEuzr59Qo",
-    "name": "TV Cuatro 4.2",
-    "iptv_urls": [
-      "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

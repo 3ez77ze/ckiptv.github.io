@@ -663,17 +663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WamXTdGUCHSO8d",
-    "name": "Euronews Spanish",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SPix7L8rl3SPVz",
     "name": "Euronews Ελληνικά",
     "iptv_urls": [],
@@ -945,17 +934,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NSFOmw8x9D1DSQ",
-    "name": "Fun Radio",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BHktLaXb4NGD72",
     "name": "Gong",
     "iptv_urls": [
@@ -1151,6 +1129,17 @@
       "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fZyKRU2kHKETIx",
+    "name": "Lou!",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ITU0x291Vmw"
+    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -1713,6 +1702,17 @@
       "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Gcj08gtWTVo"
+    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false

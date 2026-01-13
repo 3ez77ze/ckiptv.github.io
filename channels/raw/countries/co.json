@@ -214,17 +214,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vlNh6cGmLuP4h1",
-    "name": "CNC Pereira",
-    "iptv_urls": [
-      "https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b33gHrv8dtanp4",
     "name": "CNC Santander de Quilichao",
     "iptv_urls": [
@@ -292,10 +281,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TiCLQkukuXkMcJ",
-    "name": "Heliconia Radio TV",
+    "nanoid": "02mPmZWllvm8GE",
+    "name": "Kalu TV",
     "iptv_urls": [
-      "https://rtv.fullhd-streaming.com:19360/heliconiaradiotv/heliconiaradiotv.m3u8"
+      "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -329,6 +318,17 @@
     "name": "La Morada Radio TV",
     "iptv_urls": [
       "https://movil.ejeserver.com/live/lamoradatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ip9MDCdkimyNqv",
+    "name": "Luna Estéreo 106.4 FM",
+    "iptv_urls": [
+      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -414,32 +414,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iEaQZyuCD9tKa4",
-    "name": "Red+",
-    "iptv_urls": [
-      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JcWgUdRfwM6UkT",
     "name": "Reyali",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8090/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "r0BHkewVVJfdhL",
-    "name": "Río Televisión",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -492,17 +470,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "iptv_urls": [
@@ -521,17 +488,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BTUtiIKXJH39q3",
-    "name": "TeveColombia",
-    "iptv_urls": [
-      "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "co",
     "isGeoBlocked": false
   },

@@ -220,17 +220,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RdxKyXaV9qtXPb",
-    "name": "Luz Naciente TV",
-    "iptv_urls": [
-      "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fNzNQyxrdQA2dG",
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
@@ -268,6 +257,17 @@
     "name": "Norte Informativo TV",
     "iptv_urls": [
       "https://videohd.live:19360/8076/8076.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KSc2NtlozO0Aw7",
+    "name": "Radio Turrialba TV Sports",
+    "iptv_urls": [
+      "https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

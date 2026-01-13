@@ -191,7 +191,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vIb5epaXrrI"
+      "https://www.youtube-nocookie.com/embed/jzj61_P1FQU"
     ],
     "language": "spa",
     "country": "cl",
@@ -378,7 +378,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BNU3kUZiSWs"
+      "https://www.youtube-nocookie.com/embed/ZcronbyX6VI"
     ],
     "language": "spa",
     "country": "cl",
@@ -464,6 +464,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "G45spfYKl3BXh4",
+    "name": "Radio Ritmo",
+    "iptv_urls": [
+      "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jjgl7AaKfJq0wX",
     "name": "Santa María Televisión",
     "iptv_urls": [
@@ -491,17 +502,6 @@
     "name": "SUR TV",
     "iptv_urls": [
       "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ap4jlb2z9FPcau",
-    "name": "T-Vinet",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -546,7 +546,7 @@
     "name": "Televisión del Senado",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0q0LD9YAY8Q"
+      "https://www.youtube-nocookie.com/embed/66WdKJeN3-w"
     ],
     "language": "spa",
     "country": "cl",
@@ -675,17 +675,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uiKxEXDS2qwujf",
-    "name": "U Los Lagos TV",
-    "iptv_urls": [
-      "https://tv.ulagos.cl/web/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L90TWymzbjAtJm",
     "name": "UCV TV",
     "iptv_urls": [
@@ -735,6 +724,17 @@
     "name": "V Classic TV",
     "iptv_urls": [
       "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y2Z36ASHb1vcNr",
+    "name": "VC Online",
+    "iptv_urls": [
+      "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
