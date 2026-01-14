@@ -374,6 +374,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WPq32gb81NkkvQ",
+    "name": "RN Televisión",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3xHIJhktLp5hmp",
     "name": "RPP TV",
     "iptv_urls": [
@@ -434,17 +445,6 @@
     "name": "Teleselva",
     "iptv_urls": [
       "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kM9f6SL02cl9SX",
-    "name": "Telesur Camana",
-    "iptv_urls": [
-      "https://telesurnew.b-cdn.net/hls/camana.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -555,17 +555,6 @@
     "name": "TVUNO",
     "iptv_urls": [
       "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CXQzBhDcjLd9xW",
-    "name": "Unife TV",
-    "iptv_urls": [
-      "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

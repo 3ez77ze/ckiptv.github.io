@@ -405,8 +405,7 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -622,6 +621,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/UWc_vMRGxDs"
+    ],
+    "language": "eng",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8rZ37drUTxdHMw",
+    "name": "Hits Radio 1: Top Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QymshoIyhyk"
     ],
     "language": "eng",
     "country": "de",
@@ -1139,17 +1149,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rahlDGPnE1FWrR",
-    "name": "Rakuten TV Crime Series Germany",
-    "iptv_urls": [
-      "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },

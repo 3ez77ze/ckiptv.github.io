@@ -508,7 +508,7 @@
       "https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "nld",
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -913,6 +913,17 @@
     "name": "Samen1 TV",
     "iptv_urls": [
       "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4qAiXmvkgXlKqP",
+    "name": "Schie TV (576i)",
+    "iptv_urls": [
+      "https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

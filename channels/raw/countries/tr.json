@@ -168,6 +168,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nMakM6G0sKUXTn",
     "name": "ATV Avrupa",
     "iptv_urls": [
@@ -304,17 +317,6 @@
     "name": "Cay TV",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u6zpmHPrnF1o3c",
-    "name": "CGTN Documentary",
-    "iptv_urls": [
-      "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1124,17 +1126,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GhgRziNqEHb8Jk",
-    "name": "On4 TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vlixqABLRnnfK4",
     "name": "Öncü TV",
     "iptv_urls": [
@@ -1221,6 +1212,17 @@
     ],
     "youtube_urls": [],
     "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QRfxek3i27Ymob",
+    "name": "Qaf TV",
+    "iptv_urls": [
+      "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "tr",
     "isGeoBlocked": false
   },

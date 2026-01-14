@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "fgt71QAXBWF0xr",
-    "name": "13 Siam Thai",
-    "iptv_urls": [
-      "https://live.x2.co.th/live/13livetv-th.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lf5XxACaHEAHOt",
     "name": "Channel 5",
     "iptv_urls": [

@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1FGdyXp2FzRogD",
+    "name": "Canal 15 ILCE Summa Sabres",
+    "iptv_urls": [
+      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tANS8F526JB5KR",
     "name": "Canal Catorce",
     "iptv_urls": [
@@ -1037,6 +1048,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DCzhAOMfIMF2kt",
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g7YtvRUN199O67",
     "name": "TV UG",
     "iptv_urls": [
@@ -1089,6 +1111,17 @@
     "youtube_urls": [],
     "language": "khm",
     "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5q1WUlrrnksdHQ",
+    "name": "UCTV University of California",
+    "iptv_urls": [
+      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

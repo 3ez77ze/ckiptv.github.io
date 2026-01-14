@@ -69,6 +69,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tn94bXCcZQXp4I",
+    "name": "Al Arabiya Programs",
+    "iptv_urls": [
+      "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nm9j1gcFiJ0xm0",
     "name": "Al Dafrah TV",
     "iptv_urls": [
@@ -384,6 +395,17 @@
     ],
     "youtube_urls": [],
     "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tjO1W5XivBV60a",
+    "name": "Nour TV",
+    "iptv_urls": [
+      "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
     "country": "ae",
     "isGeoBlocked": false
   },

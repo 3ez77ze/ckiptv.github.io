@@ -133,6 +133,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wAhOZxTBn6q208",
+    "name": "Barbie: Barbie & Teresa",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-RRt0Rat2wY"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qeGibjiweoCaEb",
     "name": "BBC Four/CBeebies",
     "iptv_urls": [
@@ -185,6 +196,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ok2dBHadmprdM8",
+    "name": "Bluey Brasil",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OBe-ehVPKKk"
+    ],
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -402,18 +424,7 @@
     "name": "Clifford the Big Red Dog: Classic",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6Rv29Z7bfgs"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DWHNlPkSNnnnSG",
-    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GiFc-B4woSE"
+      "https://www.youtube-nocookie.com/embed/Nj7s3kaBP5Q"
     ],
     "language": "eng",
     "country": "us",
@@ -439,6 +450,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bJxDHX8fT3Na8R",
+    "name": "Disney Channel",
+    "iptv_urls": [
+      "https://liveovh011.cda.pl/enc103/disneychannelhdraw/disneychannelhdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -641,6 +663,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gfaamDst89W7kn",
+    "name": "Horrid Henry",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/FotWCpzJI90"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qGCa4GceuRopDr",
     "name": "Iunior TV",
     "iptv_urls": [
@@ -705,17 +738,6 @@
     ],
     "language": "urd",
     "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "iptv_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -872,6 +894,17 @@
     ],
     "language": "zho",
     "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lfrIvAovke3yk8",
+    "name": "Moomin Official",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pvLTr58KUlc"
+    ],
+    "language": "eng",
+    "country": "fi",
     "isGeoBlocked": false
   },
   {
@@ -1066,7 +1099,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LlNSHHP4zYY"
+      "https://www.youtube-nocookie.com/embed/Y3R9ZLpCOdM"
     ],
     "language": "por",
     "country": "br",
@@ -1117,14 +1150,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로: #1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nCtYzs-kTEg"
     ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
+    "language": "kor",
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1132,7 +1165,7 @@
     "name": "Rainbow Junior: 44 Cats",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w38ZcACL--M"
+      "https://www.youtube-nocookie.com/embed/DsJS-rboN6Q"
     ],
     "language": "eng",
     "country": "us",
@@ -1341,6 +1374,39 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "lyqsis1AvWCgnl",
+    "name": "Totally Spies!",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iqoUkPBgOag"
+    ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bqJWjkuxMfJzes",
+    "name": "Totally Spies!: Season 1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/P4eEJMhfLwc"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lvFwkInvbE9sJ0",
+    "name": "Totally Spies!: Season 2",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/c72Zr1Nui10"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KUTGOu9eHmEeCI",
     "name": "TRT Çocuk",
     "iptv_urls": [
@@ -1360,6 +1426,17 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eJ6LajESBOIbZe",
+    "name": "TV Bahoriston",
+    "iptv_urls": [
+      "https://live.teleradiocom.tj/3/3m.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tgk",
+    "country": "tj",
     "isGeoBlocked": false
   },
   {
@@ -1470,6 +1547,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hzA9M1g8Uiyjea",
+    "name": "Xtrema Cartoons",
+    "iptv_urls": [
+      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -1633,7 +1721,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FCGc8jhyCec"
+      "https://www.youtube-nocookie.com/embed/dHWQFK-7BKY"
     ],
     "language": "zho",
     "country": "cn",

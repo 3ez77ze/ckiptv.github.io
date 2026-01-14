@@ -203,10 +203,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v9elmASfRSOTaE",
-    "name": "CNC HD Online",
+    "nanoid": "xk2bL1B2O6nqIC",
+    "name": "CNC Bugavisión",
     "iptv_urls": [
-      "https://hvtraficonew.ddns.net/pastocnc6/cnc6/playlist.m3u8"
+      "https://movil.ejeserver.com/live/cncbuga.m3u8",
+      "https://video.ejeserver.com/live/cncbuga.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vlNh6cGmLuP4h1",
+    "name": "CNC Pereira",
+    "iptv_urls": [
+      "https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -425,10 +437,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "r0BHkewVVJfdhL",
+    "name": "Río Televisión",
+    "iptv_urls": [
+      "https://cdn.amelbasoluciones.co:8081/riotv/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "neqGyX9Rfbl2Yl",
     "name": "RTC Televisión Urabá",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -470,10 +504,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NNAoypPSm0OCzN",
-    "name": "Teleislas",
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
     "iptv_urls": [
-      "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -481,10 +515,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z2Kgz7MRBRZ3FM",
-    "name": "Telepacífico",
+    "nanoid": "NNAoypPSm0OCzN",
+    "name": "Teleislas",
     "iptv_urls": [
-      "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
+      "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -518,17 +552,6 @@
     "name": "TV San Jorge",
     "iptv_urls": [
       "https://asucap.com/livestream/asucap_envivo.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mlkKtAdauZwDoc",
-    "name": "TV3 La Plata",
-    "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/teleopitalive/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

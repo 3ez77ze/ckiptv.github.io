@@ -132,6 +132,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MIpBDCxySOyKyM",
+    "name": "Dijlah TV",
+    "iptv_urls": [
+      "https://ghaasiflu.online/Dijlah/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "umvB9tV3Rb1OXe",
     "name": "EmanTv",
     "iptv_urls": [
@@ -275,17 +286,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O7kNo7GEugTsdZ",
-    "name": "Mixkurdy",
-    "iptv_urls": [
-      "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z1xarEkNQ77Icp",
     "name": "Payam TV",
     "iptv_urls": [
@@ -304,6 +304,17 @@
     ],
     "youtube_urls": [],
     "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5tvpIjV4plOKmq",
+    "name": "Shams TV",
+    "iptv_urls": [
+      "https://stream.shams.tv/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "iq",
     "isGeoBlocked": false
   },

@@ -195,7 +195,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/J_Q4jnakRgY"
+      "https://www.youtube-nocookie.com/embed/Dq4KN4D4IUA"
     ],
     "language": "eng",
     "country": "ca",
@@ -739,17 +739,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sMtLcZJ0VSsWq6",
     "name": "Stingray Classic Rock",
     "iptv_urls": [
@@ -1142,6 +1131,17 @@
     ],
     "youtube_urls": [],
     "language": "pan",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bXKVlszQEGdoup",
+    "name": "TV Témis",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_AoEkzCO7IE"
+    ],
+    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
