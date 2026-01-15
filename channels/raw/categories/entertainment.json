@@ -1257,17 +1257,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DM0s0Lu20vs"
-    ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KorxP0jgE3cFyZ",
     "name": "GO TV",
     "iptv_urls": [
@@ -1666,17 +1655,6 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dDdLbQCwMts"
-    ],
-    "language": "deu",
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -3193,7 +3171,7 @@
     "name": "Telediario Guadalajara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zVZibH7Ot6k"
+      "https://www.youtube-nocookie.com/embed/HwBDYTZSly4"
     ],
     "language": "spa",
     "country": "mx",

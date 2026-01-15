@@ -513,6 +513,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fxYAd4OmyqIq2r",
+    "name": "Shout! Studios: Hunter",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bbL9XWQTkDw"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Lp8epuukUYATV",
     "name": "Shout! Studios: Jim Henson's The StoryTeller (Español)",
     "iptv_urls": [],

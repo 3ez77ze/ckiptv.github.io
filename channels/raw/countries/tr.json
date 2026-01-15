@@ -961,17 +961,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oYLz4JWGWtAe6e",
-    "name": "Lider Haber",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YHF5t4kEEGk"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sIsIH2RBxpGiQq",
     "name": "Life TV",
     "iptv_urls": [

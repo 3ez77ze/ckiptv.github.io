@@ -397,17 +397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RJjRd62_AYo"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -1545,7 +1534,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_HoPrHJ9CxQ"
+      "https://www.youtube-nocookie.com/embed/MxrECSuFqHI"
     ],
     "language": "eng",
     "country": "uk",

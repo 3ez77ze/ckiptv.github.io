@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RJjRd62_AYo"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -917,7 +906,9 @@
     "iptv_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/EKKVDTerjeE"
+    ],
     "language": "eng",
     "country": "au",
     "isGeoBlocked": false

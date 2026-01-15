@@ -1209,17 +1209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8rZ37drUTxdHMw",
-    "name": "Hits Radio 1: Top Songs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QymshoIyhyk"
-    ],
-    "language": "eng",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XeTMX0KNRpyXnL",
     "name": "Hype Visual Radio",
     "iptv_urls": [
@@ -2460,17 +2449,6 @@
     "youtube_urls": [],
     "language": "ben",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HrYiQq1QH7rl6W",
-    "name": "OTR Gold",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z_9mf8GwTEE"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {

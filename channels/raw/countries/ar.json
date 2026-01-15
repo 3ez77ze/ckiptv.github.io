@@ -335,7 +335,7 @@
     "name": "Canal 13 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b6L_FZLlS7o"
+      "https://www.youtube-nocookie.com/embed/lJSXkSDbzsA"
     ],
     "language": "spa",
     "country": "ar",
@@ -567,33 +567,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XCDnk2h8lWn1vm",
-    "name": "Diputados TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2a0FxisqqCw"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GzM2c4cYlZpdvV",
     "name": "El Doce",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/nndzeKDSjuc"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DiM3M84006I"
     ],
     "language": "spa",
     "country": "ar",
@@ -651,17 +629,6 @@
       "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rvSLmYJvnwZ691",
-    "name": "El Tres TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cWOXN3Yd5WY"
-    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false

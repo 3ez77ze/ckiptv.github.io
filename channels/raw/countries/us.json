@@ -2291,7 +2291,7 @@
     "name": "CBS News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mzYXBPUAn98"
+      "https://www.youtube-nocookie.com/embed/9A0Kbe1Y2eo"
     ],
     "language": "eng",
     "country": "us",
@@ -2586,17 +2586,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vae2fsqhQIbuJv",
-    "name": "Channel One",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PYLZfNdOfMk"
-    ],
-    "language": "fas",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CZQIAk4EUWp6Ag",
     "name": "Charge!",
     "iptv_urls": [
@@ -2816,6 +2805,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Nj7s3kaBP5Q"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/rw4l6aV-kt4"
     ],
     "language": "eng",
     "country": "us",
@@ -3729,6 +3729,17 @@
       "https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Al1oV2CUIaUTJV",
+    "name": "Dr. Seuss",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zqWDC5xLEfA"
+    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -7514,7 +7525,7 @@
     "name": "NBC News Now",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u7-_IMtcrH4"
+      "https://www.youtube-nocookie.com/embed/seYcCeRfgDk"
     ],
     "language": "eng",
     "country": "us",
@@ -8046,17 +8057,6 @@
       "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HrYiQq1QH7rl6W",
-    "name": "OTR Gold",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z_9mf8GwTEE"
-    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -9512,6 +9512,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fxYAd4OmyqIq2r",
+    "name": "Shout! Studios: Hunter",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bbL9XWQTkDw"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Lp8epuukUYATV",
     "name": "Shout! Studios: Jim Henson's The StoryTeller (Español)",
     "iptv_urls": [],
@@ -9560,7 +9571,7 @@
     "name": "Shout! Studios: The Little Rascals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0Ulsn1r7G60"
+      "https://www.youtube-nocookie.com/embed/_4sEFP--ecI"
     ],
     "language": "eng",
     "country": "us",
@@ -10749,6 +10760,17 @@
       "https://www.youtube-nocookie.com/embed/tRi_vopa1XI"
     ],
     "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vxuvNL1pu9DfjK",
+    "name": "TokuSHOUTsu: Speed Racer",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/42NFuqLS-As"
+    ],
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },

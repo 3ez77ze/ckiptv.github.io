@@ -561,17 +561,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DM0s0Lu20vs"
-    ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
     "iptv_urls": [
@@ -621,17 +610,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/UWc_vMRGxDs"
-    ],
-    "language": "eng",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8rZ37drUTxdHMw",
-    "name": "Hits Radio 1: Top Songs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QymshoIyhyk"
     ],
     "language": "eng",
     "country": "de",
@@ -723,17 +701,6 @@
       "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dDdLbQCwMts"
-    ],
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false

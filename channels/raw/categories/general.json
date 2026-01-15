@@ -4175,17 +4175,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DiM3M84006I"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "13Kg8AyngtvWeB",
     "name": "El Pituco TV",
     "iptv_urls": [
@@ -11239,17 +11228,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9bf7FdY5Rbg5t",
-    "name": "Televisa Guerrero",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hXiJHpOQ224"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -11265,7 +11243,7 @@
     "name": "Televisa Mexicali",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i3ZC-kpSZgk"
+      "https://www.youtube-nocookie.com/embed/qJOJDO144ck"
     ],
     "language": "spa",
     "country": "mx",
@@ -11276,7 +11254,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UF10f4u3mBk"
+      "https://www.youtube-nocookie.com/embed/f8qqUP5hcbI"
     ],
     "language": "spa",
     "country": "mx",
@@ -11287,7 +11265,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bIMH-V77Q0E"
+      "https://www.youtube-nocookie.com/embed/STvRDLqDtBc"
     ],
     "language": "spa",
     "country": "mx",
@@ -11522,6 +11500,17 @@
     "youtube_urls": [],
     "language": "bos",
     "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/MX3bniLd1xw"
+    ],
+    "language": "pol",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -12563,7 +12552,7 @@
     "name": "TV Tambaú",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yF6_z97cv1E"
+      "https://www.youtube-nocookie.com/embed/Y0uZF-dMfe4"
     ],
     "language": "por",
     "country": "br",

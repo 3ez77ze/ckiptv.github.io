@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fruS79xWb73ha2",
+    "name": "Barney the Dinosaur",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bohdtOAd12k"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qeGibjiweoCaEb",
     "name": "BBC Four/CBeebies",
     "iptv_urls": [
@@ -512,6 +523,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/JnAy1_w564s"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vxuvNL1pu9DfjK",
+    "name": "TokuSHOUTsu: Speed Racer",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/42NFuqLS-As"
     ],
     "language": "eng",
     "country": "us",

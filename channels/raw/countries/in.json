@@ -610,7 +610,7 @@
     "name": "ANI News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nBqxJDCiv3U"
+      "https://www.youtube-nocookie.com/embed/s7Gs3NYX-fY"
     ],
     "language": "eng",
     "country": "in",
@@ -634,7 +634,6 @@
       "https://cdn.ottlive.co.in/annnews/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fUdenVKBgN8",
       "https://www.youtube-nocookie.com/embed/4iEHGMZ8Mzw"
     ],
     "language": "urd",
@@ -1961,6 +1960,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w1XrlpeGJTudvR",
+    "name": "Indian Market Prices",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gy6BfFDO164"
+    ],
+    "language": "mar",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mKcOF9ikZb7Ws0",
     "name": "IndiaTV",
     "iptv_urls": [],
@@ -2740,7 +2750,7 @@
     "name": "NDTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CTrX5CiMuzk"
+      "https://www.youtube-nocookie.com/embed/8TEdNOh0yac"
     ],
     "language": "eng",
     "country": "in",
@@ -3210,7 +3220,7 @@
     "name": "NewsX Live",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bGOt51KVOuY"
+      "https://www.youtube-nocookie.com/embed/aOv2LNqpZXQ"
     ],
     "language": "eng",
     "country": "in",
@@ -3691,7 +3701,7 @@
       "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y_NjCGLA67E"
+      "https://www.youtube-nocookie.com/embed/jYWSw6mLHmU"
     ],
     "language": "ben",
     "country": "in",
@@ -4830,17 +4840,6 @@
       "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"
     ],
     "language": "eng",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ITRX7HC9zQXapI",
-    "name": "YouTalk",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KRJ416X0DZs"
-    ],
-    "language": "mal",
     "country": "in",
     "isGeoBlocked": false
   },
