@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zZzdEeu5sohNZw",
-    "name": "Azahares Radio Multimedia",
-    "iptv_urls": [
-      "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o15OiPkM4jxoZp",
     "name": "Bayres TV",
     "iptv_urls": [
@@ -116,17 +105,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/nb8ldCciKp8"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mbc3tMycOFDjGt",
-    "name": "Canal 2 de Ushuaia",
-    "iptv_urls": [
-      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -202,17 +180,6 @@
     "name": "Canal 5 Del Pueblo",
     "iptv_urls": [
       "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZwcB80q6hf9Umn",
-    "name": "Canal 5 Pico Truncado",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -335,7 +302,7 @@
     "name": "Canal 13 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d0HF9YxZs1k"
+      "https://www.youtube-nocookie.com/embed/to4dmDVrfvs"
     ],
     "language": "spa",
     "country": "ar",
@@ -378,11 +345,10 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jEhaYtAd7RI"
+      "https://www.youtube-nocookie.com/embed/c8Uxc6pwDNA"
     ],
     "language": "spa",
     "country": "ar",
@@ -483,6 +449,17 @@
     "name": "Canal Santa María",
     "iptv_urls": [
       "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -593,7 +570,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z8BqKCrVmPk"
+      "https://www.youtube-nocookie.com/embed/qAspuBN3rnM"
     ],
     "language": "spa",
     "country": "ar",
@@ -660,7 +637,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q9_odLscrVM"
+      "https://www.youtube-nocookie.com/embed/71pm39VYQRk"
     ],
     "language": "spa",
     "country": "ar",
@@ -793,6 +770,17 @@
     "iptv_urls": [
       "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "082mRJOAbuwMDY",
+    "name": "Panc TV",
+    "iptv_urls": [
+      "https://panel.host-live.com:19360/20004/20004.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1013,7 +1001,7 @@
     "name": "Televisión Pública",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QnDQhDEFgxg"
+      "https://www.youtube-nocookie.com/embed/T79m3FWpZN0"
     ],
     "language": "spa",
     "country": "ar",
@@ -1102,7 +1090,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2t5r7TbsJMg"
+      "https://www.youtube-nocookie.com/embed/l-ck2Y2E-lU"
     ],
     "language": "spa",
     "country": "ar",

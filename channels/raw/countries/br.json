@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gv1yxD6u5vITHV",
+    "name": "Boas Novas",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QvOtXswd30JTHP",
     "name": "Canal 25 Jundiaí",
     "iptv_urls": [
@@ -182,7 +193,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/STR54gumRQg"
+      "https://www.youtube-nocookie.com/embed/ZTxZJ-ALOt4"
     ],
     "language": "por",
     "country": "br",
@@ -435,7 +446,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ts5m9pB2QAQ"
+      "https://www.youtube-nocookie.com/embed/31YrQlUVGXU"
     ],
     "language": "por",
     "country": "br",
@@ -494,7 +505,7 @@
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3V3D2V9TYn8"
+      "https://www.youtube-nocookie.com/embed/DQ_Dfnh3WnA"
     ],
     "language": "por",
     "country": "br",
@@ -655,10 +666,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uFUnpsEwjM0TgY",
-    "name": "TV A Folha",
+    "nanoid": "tlMRtrczD2xa0E",
+    "name": "TCM 10 HD",
     "iptv_urls": [
-      "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -666,10 +677,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WxSrWAmqcJscq8",
-    "name": "TV Aldeia",
+    "nanoid": "uFUnpsEwjM0TgY",
+    "name": "TV A Folha",
     "iptv_urls": [
-      "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
+      "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -738,7 +749,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HkQJbr8bcd0"
+      "https://www.youtube-nocookie.com/embed/Bp2u7K0VMlI"
     ],
     "language": "por",
     "country": "br",
@@ -1053,6 +1064,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0XYeCTIMchk7xn",
+    "name": "TV Modelo",
+    "iptv_urls": [
+      "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1D59YMlkgspAYG",
     "name": "TV Mundo Maior",
     "iptv_urls": [],
@@ -1108,10 +1130,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HZWd4go9om2ldn",
+    "name": "TV Paraense",
+    "iptv_urls": [
+      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9IRp7pJ3B28WfW",
     "name": "TV Passo Fundo",
     "iptv_urls": [
       "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rREG7vaT91drEA",
+    "name": "TV Plan",
+    "iptv_urls": [
+      "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1185,6 +1229,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3SFbEQ5XiHL1nO",
+    "name": "TV Sul Bahia",
+    "iptv_urls": [
+      "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9fu5cWbGv1LvVt",
     "name": "TV Sul de Minas",
     "iptv_urls": [
@@ -1200,7 +1255,7 @@
     "name": "TV Tambaú",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dNEn4b5TVoU"
+      "https://www.youtube-nocookie.com/embed/OmLVcwaPHCQ"
     ],
     "language": "por",
     "country": "br",
@@ -1211,6 +1266,17 @@
     "name": "TV Terceiro Anjo",
     "iptv_urls": [
       "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kvPp1aUuE8EPON",
+    "name": "TV Thathi",
+    "iptv_urls": [
+      "https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1310,17 +1376,6 @@
     "name": "TVídeoNews",
     "iptv_urls": [
       "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "U2ATdiD90eJTfk",
-    "name": "TVitapé",
-    "iptv_urls": [
-      "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",

@@ -357,6 +357,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -406,18 +407,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0RyvSnHcZVz1gC",
-    "name": "Duma TV",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
-      "https://dumatv.iptv2022.com/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -906,17 +895,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
@@ -1036,17 +1014,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HSwH6uFzgwd6tN",
-    "name": "Privesc.Eu TV",
-    "iptv_urls": [
-      "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "md",
     "isGeoBlocked": false
   },
   {
@@ -1199,7 +1166,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HkQJbr8bcd0"
+      "https://www.youtube-nocookie.com/embed/Bp2u7K0VMlI"
     ],
     "language": "por",
     "country": "br",

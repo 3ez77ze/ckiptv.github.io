@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "At9xDVwnRJnJwN",
-    "name": "13 Kids",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bl19xd6Od9LNtI",
     "name": "13 Realities",
     "iptv_urls": [
@@ -180,19 +169,8 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mchKKzGW--w"
+      "https://www.youtube-nocookie.com/embed/hv0UnyHO9Eg"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -367,7 +345,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AZ8bk-ROtsw"
+      "https://www.youtube-nocookie.com/embed/pbOzYG-uszM"
     ],
     "language": "spa",
     "country": "cl",
@@ -598,6 +576,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "byUbvXPv80AteN",
+    "name": "TV Senado",
+    "iptv_urls": [
+      "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hOfMwcYwkqMasz",
     "name": "TV UCT",
     "iptv_urls": [
@@ -679,18 +668,6 @@
     "name": "UESTV",
     "iptv_urls": [
       "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fsG9WCXeLX2m3u",
-    "name": "Universidad Autónoma Temuco (UATV)",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

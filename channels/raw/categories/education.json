@@ -242,6 +242,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IVwVAzQdAWOVvy",
+    "name": "DC.gov DKN (Washington DC)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/DKN.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "iptv_urls": [
@@ -694,17 +705,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xx7eina1wOQhnp",
-    "name": "MCN6 Arts Channel",
-    "iptv_urls": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KGiWQ62o6Np82a",
     "name": "Midpen Media Center Youth Education and Sports Channel 28",
     "iptv_urls": [
@@ -812,6 +812,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "iptv_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -971,17 +982,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TnpnbHf11tv1Pa",
-    "name": "Señal España (XHUNES-TDT)",
-    "iptv_urls": [
-      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zx4QUgECtSYJoe",
     "name": "SET Televisión Canal 26.2",
     "iptv_urls": [
@@ -1034,17 +1034,6 @@
     "youtube_urls": [],
     "language": "yua",
     "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DCzhAOMfIMF2kt",
-    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

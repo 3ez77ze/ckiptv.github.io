@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "At9xDVwnRJnJwN",
-    "name": "13 Kids",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
     "iptv_urls": [
@@ -630,6 +619,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ejJZfMgOR7K5m8",
+    "name": "Extrema Kids TV",
+    "iptv_urls": [
+      "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "goLF4ATisubwrx",
     "name": "France 4 HD",
     "iptv_urls": [
@@ -638,6 +638,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Vp1P_A2_kic"
+    ],
+    "language": "eng",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -853,17 +864,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DdiVuOolojZUS0",
-    "name": "MCN6 Music Channel",
-    "iptv_urls": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QCmvdu32Qo7gos",
     "name": "momokids親子台: 1",
     "iptv_urls": [],
@@ -949,6 +949,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eyL4xvR1sE1phq",
+    "name": "Nicktoons",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SsOw6-A7UK0"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1099,7 +1110,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ts5m9pB2QAQ"
+      "https://www.youtube-nocookie.com/embed/31YrQlUVGXU"
     ],
     "language": "por",
     "country": "br",
@@ -1147,17 +1158,6 @@
     ],
     "language": "jpn",
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HXg0vBr45DQ"
-    ],
-    "language": "kor",
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1287,7 +1287,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ApMdUiL1o50"
+      "https://www.youtube-nocookie.com/embed/-45_9mx2uaQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -1298,7 +1298,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nPjx0S87QjQ"
+      "https://www.youtube-nocookie.com/embed/7bzaGJbmqxU"
     ],
     "language": "eng",
     "country": "ca",
@@ -1309,7 +1309,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V-dOyTMBybU"
+      "https://www.youtube-nocookie.com/embed/CJEGaU-FVIs"
     ],
     "language": "eng",
     "country": "ca",
@@ -1404,17 +1404,6 @@
     ],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bqJWjkuxMfJzes",
-    "name": "Totally Spies!: Season 1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P4eEJMhfLwc"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1732,7 +1721,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Bk42QhSHSG4"
+      "https://www.youtube-nocookie.com/embed/Vvuhu4vMBis"
     ],
     "language": "zho",
     "country": "cn",

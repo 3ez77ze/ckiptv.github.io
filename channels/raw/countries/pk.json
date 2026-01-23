@@ -59,7 +59,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/H-yvNXdqHVY"
+      "https://www.youtube-nocookie.com/embed/S-WSFAd3KgQ"
     ],
     "language": "sd",
     "country": "pk",
@@ -162,17 +162,6 @@
       "https://www.youtube-nocookie.com/embed/6i2L8XcQE1o"
     ],
     "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fFG4uYnyUDvo7t",
-    "name": "Gawahi TV",
-    "iptv_urls": [
-      "https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -503,7 +492,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U24BL8nM8-o"
+      "https://www.youtube-nocookie.com/embed/eukfcMSGneo"
     ],
     "language": "sd",
     "country": "pk",

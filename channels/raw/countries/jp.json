@@ -26,7 +26,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mJf19tXAXXU"
+      "https://www.youtube-nocookie.com/embed/l4tVYwU78tE"
     ],
     "language": "jpn",
     "country": "jp",
@@ -70,7 +70,7 @@
     "name": "HBC Hokkaido News 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zXinxDtgLMk"
+      "https://www.youtube-nocookie.com/embed/kUE25TJNjq0"
     ],
     "language": "jpn",
     "country": "jp",
@@ -261,6 +261,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Fn3IhUAmzUM"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dS0Hi9Oo1lT24W",
+    "name": "RKB News 24",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/R65_YuamTCU"
     ],
     "language": "jpn",
     "country": "jp",

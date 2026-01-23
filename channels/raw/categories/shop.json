@@ -37,7 +37,7 @@
     "name": "AAC Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g5IUv5fkhpQ"
+      "https://www.youtube-nocookie.com/embed/1oFgZiNjcZA"
     ],
     "language": "eng",
     "country": "us",
@@ -88,6 +88,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BMO0FRe0mBVXUu",
+    "name": "CoinVaultTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/d5bd8akfN_U"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NnUYFFshiBo"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -118,17 +140,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SZKqh8My275jx3",
-    "name": "FairON",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7zpkAKtuds8"
-    ],
-    "language": "deu",
-    "country": "at",
     "isGeoBlocked": false
   },
   {

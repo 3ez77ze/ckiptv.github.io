@@ -391,7 +391,7 @@
     "name": "Imagen Multicast",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZACJ-jehyBg"
+      "https://www.youtube-nocookie.com/embed/oIuLgZfFmM8"
     ],
     "language": "spa",
     "country": "mx",
@@ -402,7 +402,7 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Yh1VOIx-3PA"
+      "https://www.youtube-nocookie.com/embed/DQ8mgjupTBA"
     ],
     "language": "spa",
     "country": "mx",
@@ -530,17 +530,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qhvttFpZ2QRjRO",
-    "name": "MyTime Movie Network Mexico",
-    "iptv_urls": [
-      "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4i2dbm12cF2ARa",
     "name": "Nayarit Comunica",
     "iptv_urls": [
@@ -556,7 +545,7 @@
     "name": "NMás",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/snFoxliWSaI"
+      "https://www.youtube-nocookie.com/embed/CTnr3ntYR0Q"
     ],
     "language": "spa",
     "country": "mx",
@@ -684,17 +673,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TnpnbHf11tv1Pa",
-    "name": "Señal España (XHUNES-TDT)",
-    "iptv_urls": [
-      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KrGaqe34vp98Wi",
     "name": "SET Televisión Canal 26.1",
     "iptv_urls": [
@@ -783,10 +761,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IC6us6lzgynmy6",
-    "name": "Super9 TV",
+    "nanoid": "arUwONnDyiIo6o",
+    "name": "Tele Yucatan",
     "iptv_urls": [
-      "https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8"
+      "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -828,6 +806,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CjylGBv72H1pko",
+    "name": "Televisa Ciudad Juarez",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/J862yyYmqzo"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JNd0iWsZawqpeO",
     "name": "Televisa Del Bajio",
     "iptv_urls": [],
@@ -839,22 +828,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDHdYFZTyUWlzE",
-    "name": "Televisa Del Golfo",
+    "nanoid": "MFKuXvwOZbfP2b",
+    "name": "Televisa Guadalajara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wSmyTTeXSWs"
+      "https://www.youtube-nocookie.com/embed/Z_rNtH-rkes"
     ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MFKuXvwOZbfP2b",
-    "name": "Televisa Guadalajara",
+    "nanoid": "V9bf7FdY5Rbg5t",
+    "name": "Televisa Guerrero",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z_rNtH-rkes"
+      "https://www.youtube-nocookie.com/embed/RRpUh_yAjjA"
     ],
     "language": "spa",
     "country": "mx",
@@ -887,7 +876,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/STLIOR8FQvs"
+      "https://www.youtube-nocookie.com/embed/X2Gou7SvZss"
     ],
     "language": "spa",
     "country": "mx",
@@ -898,7 +887,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YpC9LGQ2d44"
+      "https://www.youtube-nocookie.com/embed/qzkJNvKSNkU"
     ],
     "language": "spa",
     "country": "mx",
@@ -920,7 +909,7 @@
     "name": "Televisa Querétaro",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AUp2k6whWdc"
+      "https://www.youtube-nocookie.com/embed/av4A6aNXnRA"
     ],
     "language": "spa",
     "country": "mx",
@@ -1129,17 +1118,6 @@
     "name": "TV Migrante",
     "iptv_urls": [
       "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DCzhAOMfIMF2kt",
-    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

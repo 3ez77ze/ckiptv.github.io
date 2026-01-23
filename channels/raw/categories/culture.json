@@ -202,14 +202,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
     "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "cl",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -270,13 +270,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZtL7zxGFBmbkdi",
+    "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-6.pishow.tv/live/16/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "ksm",
+    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -459,17 +461,6 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -672,17 +663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xx7eina1wOQhnp",
-    "name": "MCN6 Arts Channel",
-    "iptv_urls": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q666a4s6CEkDLb",
     "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
     "iptv_urls": [
@@ -840,6 +820,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T0s7Y4K2sYggX7",
+    "name": "Orler TV",
+    "iptv_urls": [
+      "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V3b7nvXml8zERG",
     "name": "Paci Contemporary Channel",
     "iptv_urls": [
@@ -870,6 +861,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y8ufu4YXUzuRSK",
+    "name": "RTB 3",
+    "iptv_urls": [
+      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mos",
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1077,6 +1079,17 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
