@@ -492,17 +492,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C1zMWQcgRfpuVK",
-    "name": "ETV Manisa",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "08vFfPl2upbXA4",
     "name": "Euro D",
     "iptv_urls": [
@@ -531,17 +520,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pdyq7lixkPI"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qgqjKHkHjQzR2F",
-    "name": "Finans Turk TV",
-    "iptv_urls": [
-      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -928,6 +906,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0Pgb5PyNdyF41a",
+    "name": "Kent Türk TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "axZRIy6sk182NP",
     "name": "Konya Olay TV",
     "iptv_urls": [
@@ -1049,6 +1038,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lm6hIGSOHhNu9y",
+    "name": "MTürk TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WfBeWY1RnvDWYZ",
     "name": "Muhteşem Yüzyıl",
     "iptv_urls": [],
@@ -1141,17 +1141,6 @@
     "name": "On4 TV",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vlixqABLRnnfK4",
-    "name": "Öncü TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1588,32 +1577,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bgn8mfchHatjpX",
-    "name": "TV 52",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "iptv_urls": [
       "https://tv100-live.daioncdn.net/tv100/tv100.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZdxrMEOa28PZnq",
-    "name": "TV 264",
-    "iptv_urls": [
-      "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

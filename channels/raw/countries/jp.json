@@ -366,16 +366,5 @@
     "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JIHZDaqzj6yTSY",
-    "name": "アイドルマスターチャンネル",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x5GL9PZFUwY"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
   }
 ]

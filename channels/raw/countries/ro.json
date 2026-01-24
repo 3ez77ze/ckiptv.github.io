@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g5kkuBi9J5OPSY",
+    "name": "Agro TV",
+    "iptv_urls": [
+      "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hNpror6ZnqPuws",
     "name": "Aleph Business",
     "iptv_urls": [
@@ -70,17 +81,6 @@
     "name": "Arges TV",
     "iptv_urls": [
       "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c1gByRg7bGFR8Z",
-    "name": "Atomic Academy TV",
-    "iptv_urls": [
-      "https://atomic.streamnet.ro/academia.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -297,6 +297,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2U91fowazsObgI",
+    "name": "Mooz Ro!",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CWCTvHjrmevuWH",
     "name": "Muscel TV",
     "iptv_urls": [
@@ -356,17 +367,6 @@
     "name": "Rock TV",
     "iptv_urls": [
       "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o5xFTwZ5XqqWJt",
-    "name": "Tele7ABC HD",
-    "iptv_urls": [
-      "https://live.tele7abc.ro/hls/stream/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",

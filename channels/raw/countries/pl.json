@@ -144,6 +144,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YVXMNDK2rpUCOO",
+    "name": "dlaCiebie.tv",
+    "iptv_urls": [
+      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9IWJvqi8MKA5iX",
+    "name": "Dr G Medical Examiner",
+    "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BrhdrwsQAO4B4e",
     "name": "EWTN Poland",
     "iptv_urls": [
@@ -195,6 +217,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FxS0TJ1Lw4nfFa",
+    "name": "Junior Music HD",
+    "iptv_urls": [
+      "https://liveovh011.cda.pl/enc117/topkidsjrhdraw/topkidsjrhdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -452,6 +485,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "seCu6SlVTQcDoJ",
+    "name": "Top Million Dollar Agent",
+    "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zm99zgCQP8EGKf",
     "name": "Top Movies Polska",
     "iptv_urls": [
@@ -565,17 +609,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "iptv_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "iptv_urls": [
@@ -616,6 +649,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpwyCfxeYK07lR",
+    "name": "ZTV live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3MLkh7UOte0"
+    ],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   }

@@ -33,10 +33,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4OE4ZIp6ZfzmtV",
-    "name": "Audaz TV",
+    "nanoid": "OBFGqgcPLTbi6p",
+    "name": "Canal 21 Táchira",
     "iptv_urls": [
-      "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
+      "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -44,10 +44,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OBFGqgcPLTbi6p",
-    "name": "Canal 21 Táchira",
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
     "iptv_urls": [
-      "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -165,32 +165,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4vAoi7DUnPi0Mm",
     "name": "Onza TV",
     "iptv_urls": [
       "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dJh7EB1lQFwOCd",
-    "name": "Plous TV",
-    "iptv_urls": [
-      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -256,7 +234,8 @@
     "nanoid": "qRZZMGSFXehDnV",
     "name": "TAM TV",
     "iptv_urls": [
-      "https://tv.webtuya.com:3726/hybrid/play.m3u8"
+      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
+      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -330,6 +309,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1M4Le4GYVDf5Ni",
+    "name": "Televisora de Oriente",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sB2nccFi22vLUq",
     "name": "TNO Radio",
     "iptv_urls": [
@@ -345,6 +335,17 @@
     "name": "Torococo TV",
     "iptv_urls": [
       "https://us.streaminghd.cl/torococotelevision/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rO6eV79GxNqt7n",
+    "name": "TRT",
+    "iptv_urls": [
+      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

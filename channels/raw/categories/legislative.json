@@ -410,6 +410,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0RyvSnHcZVz1gC",
+    "name": "Duma TV",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8",
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RHm7b5JVxj4i8h",
     "name": "Escambia County TV ECTV (Escambia County FL)",
     "iptv_urls": [
@@ -561,17 +573,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tsY7Oi70RUlWEA",
-    "name": "ICRTV Colima",
-    "iptv_urls": [
-      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1166,7 +1167,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Bp2u7K0VMlI"
+      "https://www.youtube-nocookie.com/embed/0PUg1lZlTNw"
     ],
     "language": "por",
     "country": "br",

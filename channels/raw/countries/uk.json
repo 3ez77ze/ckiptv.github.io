@@ -386,6 +386,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "a1RrZc8pJaoRNo",
+    "name": "CNBC UK",
+    "iptv_urls": [
+      "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fbIksYHkR7ekVA",
     "name": "Cosmic Frontiers",
     "iptv_urls": [
@@ -393,17 +404,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NnUYFFshiBo"
-    ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -601,17 +601,6 @@
     "name": "GREAT! movies",
     "iptv_urls": [
       "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fROG7Xv2Vlx2Vb",
-    "name": "GREAT! romance",
-    "iptv_urls": [
-      "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1534,7 +1523,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/USktN_XIAF4"
+      "https://www.youtube-nocookie.com/embed/-KGtL8oUGmk"
     ],
     "language": "eng",
     "country": "uk",

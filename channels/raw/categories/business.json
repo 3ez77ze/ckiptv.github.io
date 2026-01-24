@@ -158,19 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WH7adDfFfMrDqi",
-    "name": "Bloomberg Originals",
-    "iptv_urls": [
-      "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CgMsuXc9zVoL0K",
     "name": "Bloomberg Podcasts",
     "iptv_urls": [],
@@ -328,6 +315,17 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a1RrZc8pJaoRNo",
+    "name": "CNBC UK",
+    "iptv_urls": [
+      "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
