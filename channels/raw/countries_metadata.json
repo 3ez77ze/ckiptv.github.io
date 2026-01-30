@@ -3,7 +3,7 @@
     "country": "Andorra",
     "capital": "Andorra la Vella",
     "timeZone": "Europe/Andorra",
-    "hasChannels": false
+    "hasChannels": true
   },
   "AE": {
     "country": "United Arab Emirates",
@@ -243,7 +243,7 @@
     "country": "Congo",
     "capital": "Brazzaville",
     "timeZone": "Africa/Brazzaville",
-    "hasChannels": true
+    "hasChannels": false
   },
   "CH": {
     "country": "Switzerland",

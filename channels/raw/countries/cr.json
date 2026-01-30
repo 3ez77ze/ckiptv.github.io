@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z3J6UkFFEng975",
+    "name": "Canal 17 TV Nosara",
+    "iptv_urls": [
+      "https://latamvdo.com:3870/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "iptv_urls": [
@@ -215,6 +226,17 @@
       "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nADygl--Fhk"
+    ],
     "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
@@ -411,17 +433,6 @@
     "name": "VoiceOver Radio TV",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CLjMxTVbFP2ZHP",
-    "name": "Zurquí TV",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

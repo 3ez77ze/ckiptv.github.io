@@ -49,7 +49,7 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RUAV24kLvn4"
+      "https://www.youtube-nocookie.com/embed/RdHibWPpZSU"
     ],
     "language": "eng",
     "country": "ca",
@@ -557,17 +557,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "iptv_urls": [
-      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5eNJBvozHJiGRG",
     "name": "Love Nature",
     "iptv_urls": [
@@ -768,17 +757,6 @@
     ],
     "youtube_urls": [],
     "language": "pan",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1084,7 +1062,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/389ElpKnobw"
+      "https://www.youtube-nocookie.com/embed/Wrf2E9mLR6Y"
     ],
     "language": "eng",
     "country": "ca",
@@ -1095,7 +1073,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xpttWoTLXGE"
+      "https://www.youtube-nocookie.com/embed/OLvxX_BVvPw"
     ],
     "language": "eng",
     "country": "ca",

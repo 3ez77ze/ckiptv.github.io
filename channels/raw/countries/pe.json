@@ -297,17 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EXY3gFnP4pv3FX",
-    "name": "ONDA DIGITAL",
-    "iptv_urls": [
-      "https://tv.ondadigital.pe/ondadigital/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GS1iJoWQ7ta8Q1",
     "name": "Ovación TV",
     "iptv_urls": [
@@ -356,6 +345,17 @@
     "name": "RadioTV Oriente",
     "iptv_urls": [
       "https://live.obslivestream.com/tvoriente/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fFOp14kqquOvOI",
+    "name": "Red de Comunicación Regional (RCR)",
+    "iptv_urls": [
+      "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -463,17 +463,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gh6WHvpQmXShdI",
-    "name": "Turbo Mix Radio TV",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kzdXF1h7tKZGcP",
     "name": "TV Cosmos",
     "iptv_urls": [
@@ -522,7 +511,7 @@
     "name": "TVLibertad ",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TZE6tnK9WME"
+      "https://www.youtube-nocookie.com/embed/qLE0I6jJtw4"
     ],
     "language": "spa",
     "country": "pe",
@@ -533,6 +522,17 @@
     "name": "TVUNO",
     "iptv_urls": [
       "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CXQzBhDcjLd9xW",
+    "name": "Unife TV",
+    "iptv_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -588,17 +588,6 @@
     "name": "Viva TV Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/vivatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sAN5lqkNeMhvi8",
-    "name": "VNP",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

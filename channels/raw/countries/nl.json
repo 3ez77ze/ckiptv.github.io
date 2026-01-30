@@ -458,6 +458,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aoSCyrpFifrtBu",
+    "name": "Omroep Tilburg",
+    "iptv_urls": [
+      "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+      "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bdau2PmcqBuaNs",
     "name": "Omroep Venlo",
     "iptv_urls": [
@@ -1205,17 +1217,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lVcADaz4AhkZNS",
-    "name": "ZFM Zoetermeer",
-    "iptv_urls": [
-      "https://zfmzoetermeer.nl/live/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
     "country": "nl",
     "isGeoBlocked": false
   },

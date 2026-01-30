@@ -366,6 +366,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Nf4iMslErjtXta",
+    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/97_12.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7rKceCpkpRKp2Z",
     "name": "Denver 8 TV (Denver CO)",
     "iptv_urls": [
@@ -652,17 +663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "iptv_urls": [
-      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hXk0VgitqbFza7",
     "name": "Leominster TV Government",
     "iptv_urls": [
@@ -873,14 +873,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1151,22 +1151,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5I6xnQBwtDQIA8",
-    "name": "Thornton Government Access Channel 17 (Thornton CO)",
-    "iptv_urls": [
-      "https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qIar6axvqjptwG",
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qHVr4w3Zsyk"
+      "https://www.youtube-nocookie.com/embed/cAQdDB6o-6w"
     ],
     "language": "por",
     "country": "br",
@@ -1199,7 +1188,7 @@
     "name": "TV Câmara Porto Alegre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n475ff96YGk"
+      "https://www.youtube-nocookie.com/embed/S75NRL1Rzgc"
     ],
     "language": "por",
     "country": "br",

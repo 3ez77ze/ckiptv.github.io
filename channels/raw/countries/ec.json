@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvYhuImFYPqlJm",
+    "name": "Curiquingue TV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/pjtv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zHfJMORTmUY70P",
     "name": "Ecotel TV",
     "iptv_urls": [
@@ -279,17 +290,6 @@
     "name": "Loreto TV",
     "iptv_urls": [
       "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Sp6sHwr9vDmxjt",
-    "name": "Mágica Tv",
-    "iptv_urls": [
-      "https://magicatv.4pu.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -488,28 +488,6 @@
     "name": "RTRTV",
     "iptv_urls": [
       "https://tv3ecuador.site/hls/stream/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Vw6NdTRGURL25",
-    "name": "RTU",
-    "iptv_urls": [
-      "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GMkpwotjB860aV",
-    "name": "RTV Riobamba",
-    "iptv_urls": [
-      "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

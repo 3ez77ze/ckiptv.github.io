@@ -277,17 +277,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics",
-    "iptv_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QFKHFoExvGyTwt",
     "name": "Cartoon Network",
     "iptv_urls": [],
@@ -756,7 +745,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-PO6gnKiCho"
+      "https://www.youtube-nocookie.com/embed/yl0ztHuQayY"
     ],
     "language": "urd",
     "country": "pk",
@@ -1007,17 +996,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jZAckV2XCo9tKn",
-    "name": "Oddbods",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FvZjRs8fNaw"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sf2UUZ1IfXDGmN",
     "name": "Omid",
     "iptv_urls": [
@@ -1154,7 +1132,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eKBsKpu5W1I"
+      "https://www.youtube-nocookie.com/embed/GR-F6qX_M0A"
     ],
     "language": "por",
     "country": "br",
@@ -1213,6 +1191,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로: #1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UuqXncNWq6w"
+    ],
+    "language": "kor",
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1327,6 +1316,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/h0w0ifzyowU"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
@@ -1342,7 +1342,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/389ElpKnobw"
+      "https://www.youtube-nocookie.com/embed/Wrf2E9mLR6Y"
     ],
     "language": "eng",
     "country": "ca",
@@ -1353,7 +1353,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xpttWoTLXGE"
+      "https://www.youtube-nocookie.com/embed/OLvxX_BVvPw"
     ],
     "language": "eng",
     "country": "ca",
@@ -1379,6 +1379,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m5MgU7qKVzOReb",
+    "name": "The Smurfs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QmqtbOO15hI"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1565,7 +1576,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MeNN6Nym0kM"
+      "https://www.youtube-nocookie.com/embed/-cebNd6kWf8"
     ],
     "language": "tur",
     "country": "tr",
@@ -1787,7 +1798,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UQwOpO7MKoM"
+      "https://www.youtube-nocookie.com/embed/fU9t0hIYiYY"
     ],
     "language": "zho",
     "country": "cn",

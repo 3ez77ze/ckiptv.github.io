@@ -584,6 +584,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "iptv_urls": [
+      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
     "iptv_urls": [
@@ -617,6 +628,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dzZhPTRLU6fXlS",
+    "name": "KITE Victers (Kerala)",
+    "iptv_urls": [
+      "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "iptv_urls": [
@@ -632,17 +654,6 @@
     "name": "Leominster TV Educational",
     "iptv_urls": [
       "https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vuBNF2VDfe8MfR",
-    "name": "LETV",
-    "iptv_urls": [
-      "https://livestream.telvue.com/lexmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia2/stream1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -687,6 +698,17 @@
     "name": "Midpen Media Center Youth Education and Sports Channel 28",
     "iptv_urls": [
       "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a5pCHJNR4Ar34s",
+    "name": "Mobile County Public Schools TV Network (MCPSS)",
+    "iptv_urls": [
+      "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -952,6 +974,17 @@
     "name": "Señal España (XHUNES-TDT)",
     "iptv_urls": [
       "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zx4QUgECtSYJoe",
+    "name": "SET Televisión Canal 26.2",
+    "iptv_urls": [
+      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

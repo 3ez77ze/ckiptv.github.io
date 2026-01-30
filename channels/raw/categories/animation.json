@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t9oYt4NY18iZul",
-    "name": "Anime Vanguard Live",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/--e7nOKdF4Y"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hkDzNHa7Mm4MEd",
     "name": "Anime Vision",
     "iptv_urls": [
@@ -103,7 +92,7 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RUAV24kLvn4"
+      "https://www.youtube-nocookie.com/embed/RdHibWPpZSU"
     ],
     "language": "eng",
     "country": "ca",
@@ -140,17 +129,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics",
-    "iptv_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -489,7 +467,7 @@
     "name": "Soviet Toons: Ну, погоди!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BjDstUignmU"
+      "https://www.youtube-nocookie.com/embed/g-EfxLjV9WI"
     ],
     "language": "rus",
     "country": "uk",
@@ -544,7 +522,7 @@
     "name": "TokuSHOUTsu: Speed Racer",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4PI10WPMpuk"
+      "https://www.youtube-nocookie.com/embed/pvN_aoc2wCg"
     ],
     "language": "eng",
     "country": "us",

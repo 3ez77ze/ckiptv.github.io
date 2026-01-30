@@ -218,7 +218,7 @@
     "name": "BENGÜTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/W1eNOa-M8_k"
+      "https://www.youtube-nocookie.com/embed/Dhy7yHeNZWM"
     ],
     "language": "tur",
     "country": "tr",
@@ -540,17 +540,6 @@
     "name": "Finans Turk TV",
     "iptv_urls": [
       "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WDQpCRq4dLb0NU",
-    "name": "Fortuna TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1137,17 +1126,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vlixqABLRnnfK4",
-    "name": "Öncü TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fEdPdOM5VlxlUw",
     "name": "Power Dance",
     "iptv_urls": [
@@ -1255,17 +1233,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pj3Pb4MifHuOI3",
-    "name": "Sports TV",
-    "iptv_urls": [
-      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1577,17 +1544,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bgn8mfchHatjpX",
-    "name": "TV 52",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "iptv_urls": [
@@ -1704,7 +1660,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MeNN6Nym0kM"
+      "https://www.youtube-nocookie.com/embed/-cebNd6kWf8"
     ],
     "language": "tur",
     "country": "tr",
