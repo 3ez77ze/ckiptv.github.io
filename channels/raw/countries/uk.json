@@ -147,6 +147,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tH0PM0L3QcvXyJ",
+    "name": "BBC Lifestyle Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g1kSsRGdu6pjqO",
     "name": "BBC News",
     "iptv_urls": [

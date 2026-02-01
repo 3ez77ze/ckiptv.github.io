@@ -1121,7 +1121,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JQSs87JVS1A"
+      "https://www.youtube-nocookie.com/embed/DtSCtn2DJGk"
     ],
     "language": "por",
     "country": "br",
@@ -1316,22 +1316,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/F5hgf7UYsl0"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/APy4NmcLotY"
+      "https://www.youtube-nocookie.com/embed/-6rpQseP26w"
     ],
     "language": "eng",
     "country": "ca",
@@ -1342,7 +1331,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wrf2E9mLR6Y"
+      "https://www.youtube-nocookie.com/embed/cHXAXX2CnUk"
     ],
     "language": "eng",
     "country": "ca",
@@ -1353,7 +1342,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OLvxX_BVvPw"
+      "https://www.youtube-nocookie.com/embed/O997nL8p6y4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1627,6 +1616,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "iptv_urls": [],
@@ -1635,6 +1635,17 @@
     ],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "80O6JyPLhgKHVd",
+    "name": "ZooMoo Asia",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "sg",
     "isGeoBlocked": false
   },
   {
@@ -1765,7 +1776,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QIHbdTkurDY"
+      "https://www.youtube-nocookie.com/embed/WqUnzSTkewc"
     ],
     "language": "zho",
     "country": "cn",

@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c9vagOs8X6vg6Q",
     "name": "Guaro TV",
     "iptv_urls": [
@@ -220,6 +231,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8UCD3Qx8hCNOEd",
+    "name": "Siembra TV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hf8hQXiCJxWSk6",
     "name": "Somos TV",
     "iptv_urls": [
@@ -342,10 +364,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MfZl15TXWaHOGI",
-    "name": "TRV",
+    "nanoid": "rO6eV79GxNqt7n",
+    "name": "TRT",
     "iptv_urls": [
-      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
+      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -353,10 +375,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z9rhVuP0JaTo3P",
-    "name": "TV FANB",
+    "nanoid": "MfZl15TXWaHOGI",
+    "name": "TRV",
     "iptv_urls": [
-      "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
+      "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

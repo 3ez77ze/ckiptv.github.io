@@ -470,10 +470,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "neqGyX9Rfbl2Yl",
-    "name": "RTC Televisión Urabá",
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
     "iptv_urls": [
-      "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -504,10 +504,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
     "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
+      "https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -596,17 +596,6 @@
     "name": "Ultra Casanare TV",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8072/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lOEoXHnp8Sj0dx",
-    "name": "UMC TV",
-    "iptv_urls": [
-      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

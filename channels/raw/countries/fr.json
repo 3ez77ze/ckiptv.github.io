@@ -912,6 +912,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NXr5JJCUZWuMub",
+    "name": "Generations TV",
+    "iptv_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BHktLaXb4NGD72",
     "name": "Gong",
     "iptv_urls": [
@@ -1211,21 +1222,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aRYM4hJmBP444c",
-    "name": "My Gospel TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "frxoUV6KIlJwd1",
     "name": "MyTime Movie Network France",
     "iptv_urls": [
       "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpkqoQyazekjjY",
+    "name": "Mytime Movies",
+    "iptv_urls": [
+      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1475,17 +1486,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6yK7rD2LKikhPv",
-    "name": "Puissance TV",
-    "iptv_urls": [
-      "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GBee4ruMbEkHYx",
     "name": "Qui Veut Gagner Des Millions La Chaîne",
     "iptv_urls": [
@@ -1523,17 +1523,6 @@
     "name": "Rakuten TV Alerte Cobra",
     "iptv_urls": [
       "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
-    "iptv_urls": [
-      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1589,6 +1578,28 @@
     "name": "Rakuten TV Films Thriller",
     "iptv_urls": [
       "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
+    "iptv_urls": [
+      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dK7Tr0arpe0iTb",
+    "name": "Rakuten TV Top Films France",
+    "iptv_urls": [
+      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

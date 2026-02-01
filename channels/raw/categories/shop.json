@@ -928,7 +928,9 @@
     "iptv_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ysq4OP9BZgU"
+    ],
     "language": "eng",
     "country": "au",
     "isGeoBlocked": false
@@ -975,6 +977,17 @@
     "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WqD_BIzno7M"
+    ],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

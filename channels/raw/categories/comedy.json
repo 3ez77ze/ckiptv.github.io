@@ -146,17 +146,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e8szC96ftGfIR5",
-    "name": "Laugh After Dark",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Zlr7hQP1Bks"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hpo8bmZBPSGLRO",
     "name": "LOL Network",
     "iptv_urls": [

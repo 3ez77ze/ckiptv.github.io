@@ -256,18 +256,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "iptv_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BkNvZNcvt4fu9h",
     "name": "F1 Channel",
     "iptv_urls": [
@@ -349,7 +337,7 @@
     "name": "FOX Sports YT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qusIaOaZHb0"
+      "https://www.youtube-nocookie.com/embed/UEBsHqL643c"
     ],
     "language": "eng",
     "country": "us",
@@ -623,17 +611,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "iptv_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "iptv_urls": [
@@ -683,7 +660,8 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -810,17 +788,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1131,6 +1098,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "beAXn8CiW6Z5Te",
+    "name": "TVS Women Sports",
+    "iptv_urls": [
+      "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ds5kjE7mChd5a5",
     "name": "Varzesh TV",
     "iptv_urls": [
@@ -1151,17 +1129,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HoPPiJ6zSU8JBV",
-    "name": "W14DK-D 14.5 All Sports Television Network",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1253,17 +1220,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Беларусь 5",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   }
 ]

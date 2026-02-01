@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4tHkld19ADlLsM",
+    "name": "Apna Punjab TV",
+    "iptv_urls": [
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "iptv_urls": [
@@ -595,6 +606,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
+    "iptv_urls": [
+      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XVgAGRmSpMBubT",
     "name": "Newfoundland Television",
     "iptv_urls": [
@@ -746,17 +768,6 @@
     ],
     "youtube_urls": [],
     "language": "pan",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1051,7 +1062,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/APy4NmcLotY"
+      "https://www.youtube-nocookie.com/embed/-6rpQseP26w"
     ],
     "language": "eng",
     "country": "ca",
@@ -1062,7 +1073,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wrf2E9mLR6Y"
+      "https://www.youtube-nocookie.com/embed/cHXAXX2CnUk"
     ],
     "language": "eng",
     "country": "ca",
@@ -1073,7 +1084,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OLvxX_BVvPw"
+      "https://www.youtube-nocookie.com/embed/O997nL8p6y4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1164,17 +1175,6 @@
     ],
     "youtube_urls": [],
     "language": "pan",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bXKVlszQEGdoup",
-    "name": "TV Témis",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_AoEkzCO7IE"
-    ],
-    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },

@@ -80,7 +80,8 @@
     "nanoid": "3IPx7Vn2DfdZ1y",
     "name": "Asharq News",
     "iptv_urls": [
-      "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+      "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "https://live-news.asharq.com/asharq.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
@@ -503,8 +504,7 @@
       "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
       "https://yahoo-plex.amagi.tv/playlist.m3u8",
       "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
-      "https://yahoo-samsung.amagi.tv/playlist.m3u8",
-      "https://yahoo-vizio.amagi.tv/playlist.m3u8"
+      "https://yahoo-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
