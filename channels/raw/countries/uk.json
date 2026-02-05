@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ziSogPvWMMpIww",
+    "name": "Alhiwar TV",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BDVUYXaNXNi52q",
     "name": "Amazing World of Gumball",
     "iptv_urls": [],
@@ -456,7 +467,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GnwQeY04Kyk"
+      "https://www.youtube-nocookie.com/embed/0tOfSZgUqtw"
     ],
     "language": "eng",
     "country": "uk",
@@ -496,17 +507,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7MXbbU4PbHBYpc",
-    "name": "DesiPlay TV",
-    "iptv_urls": [
-      "https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u6dHm89DYJkcoL",
     "name": "Dunya News (UK Feed)",
     "iptv_urls": [
@@ -536,6 +536,28 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tvhsp1pTtzQs6W",
+    "name": "ENT Channel",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J7Le553hw3j1x7",
+    "name": "ENT Family",
+    "iptv_urls": [
+      "https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1330,6 +1352,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/LHQ3PLZWuUM"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "iptv_urls": [],
@@ -1519,6 +1552,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2e0RNEU1NHz9cZ",
+    "name": "TRACE Latina",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=jn5xeelzYbm"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "McADRCgZrX1wEb",
     "name": "True Lives",
     "iptv_urls": [
@@ -1600,18 +1644,17 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-KGtL8oUGmk"
+      "https://www.youtube-nocookie.com/embed/HX9QhLr0brY"
     ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pmINkM6RSJSVHl",
-    "name": "WildEarth",
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
     "iptv_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
-      "https://wildearth-xumo.amagi.tv/master.m3u8"
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

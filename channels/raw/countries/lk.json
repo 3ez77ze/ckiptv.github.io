@@ -44,11 +44,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "84MzFsqan8hkeY",
+    "name": "LiveFM Sri Lanka",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/P2_sZ8NLuDg"
+    ],
+    "language": "sin",
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GqCp27T0s0lfCz",
     "name": "Methmaga TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VMmkKBVpZAM"
+      "https://www.youtube-nocookie.com/embed/pYnFgVLKWy0"
     ],
     "language": "sin",
     "country": "lk",
@@ -62,17 +73,6 @@
     ],
     "youtube_urls": [],
     "language": "tam",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2kFmLsUZ8zPq3c",
-    "name": "Newsfirst Sri Lanka",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3gRp95Uk8r8"
-    ],
-    "language": "sin",
     "country": "lk",
     "isGeoBlocked": false
   },
@@ -121,33 +121,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eSMkzAvr1JhXfB",
-    "name": "Swarnavahini",
-    "iptv_urls": [
-      "https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BhmoGwl2ZbKr5D",
     "name": "The Buddhist TV",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i4sBVt8evbI"
-    ],
-    "language": "sin",
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AOoB2s0AaU3TV6",
-    "name": "TV Derana",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ejoPkyAxx20"
     ],
     "language": "sin",
     "country": "lk",

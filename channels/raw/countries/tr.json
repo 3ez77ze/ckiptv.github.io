@@ -73,7 +73,7 @@
     "name": "A Spor",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mgujcDXBcE0"
+      "https://www.youtube-nocookie.com/embed/FHjbZjTjG5k"
     ],
     "language": "tur",
     "country": "tr",
@@ -157,6 +157,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pLI2z0MLOck"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -194,6 +207,17 @@
     "name": "Bloomberg HT",
     "iptv_urls": [
       "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WjndAfYgzOKuol",
+    "name": "BRTV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -475,17 +499,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pdyq7lixkPI"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qgqjKHkHjQzR2F",
-    "name": "Finans Turk TV",
-    "iptv_urls": [
-      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false

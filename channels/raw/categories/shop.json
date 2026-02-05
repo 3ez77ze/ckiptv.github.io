@@ -92,7 +92,7 @@
     "name": "Crafter's TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GnwQeY04Kyk"
+      "https://www.youtube-nocookie.com/embed/0tOfSZgUqtw"
     ],
     "language": "eng",
     "country": "uk",
@@ -107,6 +107,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QW25K1cDjYb9vx",
+    "name": "Cutlery Corner Network",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/7GTg0eUG4zs"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

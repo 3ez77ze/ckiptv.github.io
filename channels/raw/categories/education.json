@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ziSogPvWMMpIww",
+    "name": "Alhiwar TV",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BFNn9BFX5O3vY0",
     "name": "Anger Management Channel",
     "iptv_urls": [
@@ -110,10 +121,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1FGdyXp2FzRogD",
-    "name": "Canal 15 ILCE Summa Sabres",
+    "nanoid": "bmVfcr31sW64zk",
+    "name": "Cần Thơ TV2",
     "iptv_urls": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+      "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tANS8F526JB5KR",
+    "name": "Canal Catorce",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -211,6 +233,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BFZswU8rLJZ6jx",
+    "name": "Da Vinci Asia Vietnam",
+    "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VOHSPgP61uCg6D",
     "name": "Dabanga TV",
     "iptv_urls": [
@@ -233,8 +266,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jDP6MUrSN5cKSo",
-    "name": "DD Kisan",
+    "nanoid": "nOQMyaxMLN1dPp",
+    "name": "DD KISAN HD",
     "iptv_urls": [
       "https://cdn-6.pishow.tv/live/9/master.m3u8"
     ],
@@ -347,6 +380,72 @@
     "name": "DLTV 9",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv09.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J2tWh2yACsVBKq",
+    "name": "DLTV 10",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv10.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1UZOek5lIzCih6",
+    "name": "DLTV 11",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9tRf46L4LZNOGa",
+    "name": "DLTV 12",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZPUnfb9kCWJfnO",
+    "name": "DLTV 13",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv13.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i5UXCyXzVkJ6Kf",
+    "name": "DLTV 14",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sfr4boA9nNaI9M",
+    "name": "DLTV 15",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv15.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -473,6 +572,17 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sb5v19pRAmTp7P",
+    "name": "HTV Key",
+    "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {

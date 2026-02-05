@@ -187,17 +187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j1Mx0NYk5KtzPX",
-    "name": "Canal 4 San Juan",
-    "iptv_urls": [
-      "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bP0degf1e4sc5i",
     "name": "Canal 5 Del Pueblo",
     "iptv_urls": [
@@ -378,6 +367,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v7fuzMjUcfiKGk",
+    "name": "Canal 79 La Costa",
+    "iptv_urls": [
+      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGdrDzPisNgZkI",
     "name": "Canal 79 Puan",
     "iptv_urls": [
@@ -435,10 +435,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rexjgi9hzCbRd0",
-    "name": "Canal Provincial",
+    "nanoid": "tZLaG8MHkNY9P0",
+    "name": "Canal Santa María",
     "iptv_urls": [
-      "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
+      "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -446,10 +446,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
+    "nanoid": "TyUx4dR3i3hPtN",
+    "name": "Celta TV",
     "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+      "https://vivo.solumedia.com:19360/celta/celta.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "njewIOEi3Bzjbb",
+    "name": "Chilecito TV",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -516,7 +527,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_YNmyXBCQxQ"
+      "https://www.youtube-nocookie.com/embed/T6CkJdlwq0E"
     ],
     "language": "spa",
     "country": "ar",
@@ -583,7 +594,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/giPAaE4ZAwA"
+      "https://www.youtube-nocookie.com/embed/JbkJZx-K3bo"
     ],
     "language": "spa",
     "country": "ar",
@@ -678,13 +689,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hUmeKtS1x9uzCD",
-    "name": "Metro TV",
+    "nanoid": "nxOuJBvN9WDNwl",
+    "name": "Milennio TV",
     "iptv_urls": [
-      "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
+      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -716,17 +727,6 @@
     "iptv_urls": [
       "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "082mRJOAbuwMDY",
-    "name": "Panc TV",
-    "iptv_urls": [
-      "https://panel.host-live.com:19360/20004/20004.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1025,7 +1025,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SuPdY0VZqIo"
+      "https://www.youtube-nocookie.com/embed/FD-M3o0PEfs"
     ],
     "language": "spa",
     "country": "ar",

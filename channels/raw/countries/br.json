@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wjGP3n4DkSPVQ1",
-    "name": "Amazon Sat",
-    "iptv_urls": [
-      "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "iptv_urls": [],
@@ -61,6 +50,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9rGUGiPx8hw"
     ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Gv1yxD6u5vITHV",
+    "name": "Boas Novas",
+    "iptv_urls": [
+      "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -112,6 +112,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v4GtUMLPMHYP7Y",
+    "name": "Catve FM",
+    "iptv_urls": [
+      "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8kzr4O6mpKtXrA",
     "name": "Catve Master TV",
     "iptv_urls": [
@@ -151,17 +162,6 @@
       "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/E8LKTIv2Hso"
-    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -354,6 +354,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j2PNx5Xg25mTJj",
+    "name": "KpopTV Play",
+    "iptv_urls": [
+      "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NxqeGIVjUY8tcI",
     "name": "Loading",
     "iptv_urls": [
@@ -413,7 +424,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xHLWFiHkdCo"
+      "https://www.youtube-nocookie.com/embed/OcGRXXfhgS0"
     ],
     "language": "por",
     "country": "br",
@@ -472,7 +483,7 @@
       "https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6XN6iC3_ci0"
+      "https://www.youtube-nocookie.com/embed/u_81f57Zwgk"
     ],
     "language": "por",
     "country": "br",
@@ -716,7 +727,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pOVysdn00Kc"
+      "https://www.youtube-nocookie.com/embed/lqz8wk4BXfs"
     ],
     "language": "por",
     "country": "br",
@@ -760,6 +771,17 @@
     "name": "TV BRICS Portuguese",
     "iptv_urls": [
       "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "riJfvbebPYWsNV",
+    "name": "TV Brusque",
+    "iptv_urls": [
+      "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -943,6 +965,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g42CLcwYVqsKev",
+    "name": "TV Guará",
+    "iptv_urls": [
+      "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "iptv_urls": [],
@@ -1119,17 +1152,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jlr3Y2RyUKhfhY",
-    "name": "TV São Raimundo",
-    "iptv_urls": [
-      "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XqX1P3iuCUKE9s",
     "name": "TV Series 1 As Panteras",
     "iptv_urls": [
@@ -1163,6 +1185,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ypesM2O8mm8qXW",
+    "name": "TV Sim São Mateus",
+    "iptv_urls": [
+      "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3SFbEQ5XiHL1nO",
     "name": "TV Sul Bahia",
     "iptv_urls": [
@@ -1189,7 +1222,7 @@
     "name": "TV Tambaú",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N2nzIModBB4"
+      "https://www.youtube-nocookie.com/embed/v1yG4adgSq0"
     ],
     "language": "por",
     "country": "br",

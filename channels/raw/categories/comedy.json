@@ -201,17 +201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D0c4Jvigf5dKNp",
-    "name": "Mystery Science Theater 3000",
-    "iptv_urls": [
-      "https://mst3k-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RMSylCl2JLBBMs",
     "name": "Mystery Science Theater 3000: FOREVER-a-thon",
     "iptv_urls": [],
@@ -231,6 +220,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWwmPx6ovJPksa",
+    "name": "Novo Comedy",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=WY7qC3DIF58"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {

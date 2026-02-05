@@ -56,17 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kViHud7pJIRjfw",
     "name": "AlKawthar",
     "iptv_urls": [
@@ -177,6 +166,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QtyIEE9DZnKUAu",
+    "name": "Canal 17 RTVD",
+    "iptv_urls": [
+      "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tANS8F526JB5KR",
+    "name": "Canal Catorce",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WsnjAbyAewcp2y",
     "name": "Canal Sur Andalucia",
     "iptv_urls": [
@@ -188,28 +199,6 @@
     ],
     "language": "spa",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -272,21 +261,19 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3RFBxxtq5PlDQ7",
+    "nanoid": "ZtL7zxGFBmbkdi",
     "name": "DD Kashir",
-    "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/16/master.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "hin",
+    "language": "ksm",
     "country": "in",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WpcybxbE1ymavG",
-    "name": "DD Mizoram",
+    "nanoid": "bbnDiHjTSZjzkM",
+    "name": "DD MIZORAM",
     "iptv_urls": [
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8"
     ],
@@ -455,17 +442,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -574,6 +550,17 @@
     "youtube_urls": [],
     "language": "kur",
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "iptv_urls": [
+      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -811,6 +798,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T0s7Y4K2sYggX7",
+    "name": "Orler TV",
+    "iptv_urls": [
+      "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V3b7nvXml8zERG",
     "name": "Paci Contemporary Channel",
     "iptv_urls": [
@@ -1043,6 +1041,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAUF947AFuFdtH",
+    "name": "Vĩnh Long TV5",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "iptv_urls": [
@@ -1051,6 +1060,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ye",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7IG6c8BLRlAZXA",
+    "name": "Беларусь 3",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
     "isGeoBlocked": false
   },
   {

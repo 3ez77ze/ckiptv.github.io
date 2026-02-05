@@ -168,6 +168,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vzmtZPIdnHIMbY",
+    "name": "Cowboy Channel",
+    "iptv_urls": [
+      "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8?ads.vf=6g9ilXeXVD8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v0OeMdvjnnVO4J",
     "name": "Deshi TV",
     "iptv_urls": [
@@ -631,6 +642,17 @@
     "name": "Plymouth Rock TV",
     "iptv_urls": [
       "https://d30au7974f7qoa.cloudfront.net/scheduler/scheduleMaster/419.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CID3rJMl0Ytixb",
+    "name": "Prime Asia Tv",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8?ads.vf=Vg9ARUkV43a"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1107,6 +1129,17 @@
     ],
     "youtube_urls": [],
     "language": "pan",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bXKVlszQEGdoup",
+    "name": "TV Témis",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TYmoCDVdeb4"
+    ],
+    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },

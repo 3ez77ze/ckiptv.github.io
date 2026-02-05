@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
@@ -55,21 +66,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z3J6UkFFEng975",
-    "name": "Canal 17 TV Nosara",
-    "iptv_urls": [
-      "https://latamvdo.com:3870/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "iptv_urls": [
       "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bK2TlT0v8UWAuh",
+    "name": "Colosal TV",
+    "iptv_urls": [
+      "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -187,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RdxKyXaV9qtXPb",
-    "name": "Luz Naciente TV",
-    "iptv_urls": [
-      "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fNzNQyxrdQA2dG",
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
@@ -253,10 +253,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RYVkiPv8DNw6UC",
-    "name": "Sarapiqui TV",
+    "nanoid": "KWtXBE79zVCsGO",
+    "name": "San José TV",
     "iptv_urls": [
-      "https://lstv.duckdns.org:449/hls/stv.m3u8"
+      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -264,10 +264,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
+    "nanoid": "RYVkiPv8DNw6UC",
+    "name": "Sarapiqui TV",
     "iptv_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+      "https://lstv.duckdns.org:449/hls/stv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -330,6 +330,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
+    "iptv_urls": [
+      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3sTV1ejuknKgG",
     "name": "TV Sur Canal 14",
     "iptv_urls": [
@@ -345,28 +356,6 @@
     "name": "Urbano TV",
     "iptv_urls": [
       "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTy2o9iN37Hvi8",
-    "name": "Vintage Music",
-    "iptv_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "iptv_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

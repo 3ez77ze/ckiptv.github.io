@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3zs2UMlidApgeb",
-    "name": "Blues TV",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tIGqdwnTT3ZqJq",
     "name": "Cartoon Network: Adventure Time",
     "iptv_urls": [],
@@ -447,6 +436,17 @@
       "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/LHQ3PLZWuUM"
+    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

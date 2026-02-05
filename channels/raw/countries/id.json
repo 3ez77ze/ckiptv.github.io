@@ -177,6 +177,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "csTsVz553duuxV",
+    "name": "Caruban TV",
+    "iptv_urls": [
+      "https://stream.carubantv.id/hls/0/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vd1yZSp74MjEYU",
     "name": "DAAI TV",
     "iptv_urls": [
@@ -184,6 +195,17 @@
     ],
     "youtube_urls": [],
     "language": "zho",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JTbs2lIH8ln5ro",
+    "name": "Davika TV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
     "country": "id",
     "isGeoBlocked": false
   },
@@ -276,17 +298,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FlyflabB3PZYqG",
-    "name": "GTV",
-    "iptv_urls": [
-      "https://allcutv.rctiplus.id/gtv2023.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iKRL8braCsStZJ",
     "name": "Huma Betang TV",
     "iptv_urls": [
@@ -309,10 +320,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pqtg1GUrVPoOVe",
-    "name": "iNews",
+    "nanoid": "4XTEtIon4adh6d",
+    "name": "Indonesiana.TV",
     "iptv_urls": [
-      "https://allcutv.rctiplus.id/inews2023.m3u8"
+      "https://tvstreamcast.com/indonesiana.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -353,6 +364,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ootv8lcMdtj5Da",
+    "name": "Kilisuci TV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1TkiIu9l9A50xr",
     "name": "KOMPASTV",
     "iptv_urls": [],
@@ -375,17 +397,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VJx2F12AWU3Qh7",
-    "name": "KompasTV Jember",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QPc-2rdNxbw"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZouIbMyvdSBDkH",
     "name": "KTV",
     "iptv_urls": [
@@ -397,23 +408,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e5EXvO8ucfhlsQ",
+    "name": "Leo Si Penjaga Alam",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aEEoy7HcDpc"
+    ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0KL7HXYYAtsJlk",
     "name": "Lingkar TV",
     "iptv_urls": [
       "https://lingkartv.my.id/hls/lingkartv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mSpavAreqc56SW",
-    "name": "Liputan6",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ny_vcB_05Fo"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -452,17 +463,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zrn3dK1AY8AcF8",
-    "name": "Marhaban TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VzgDe7P6ZRE"
-    ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "iptv_urls": [],
@@ -492,17 +492,6 @@
       "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
     ],
     "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CtqODVvxMv72ZE",
-    "name": "MNCTV",
-    "iptv_urls": [
-      "https://allcutv.rctiplus.id/mnctv2023.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "id",
     "isGeoBlocked": false
   },
@@ -617,10 +606,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjnsxJ8KPPJdb8",
-    "name": "RCTI",
+    "nanoid": "KTI8mZR4uaTaLf",
+    "name": "Rakyat Bengkulu TV",
     "iptv_urls": [
-      "https://allcutv.rctiplus.id/rcti2023.m3u8"
+      "https://flv.intechmedia.net/live/ch59.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -717,17 +706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4WttbEI2P66IMh",
-    "name": "Sangaji TV",
-    "iptv_urls": [
-      "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2XkFMpRoLYu9Ma",
     "name": "Selaparang TV",
     "iptv_urls": [
@@ -750,10 +728,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3tK786c3qywsHt",
+    "name": "Stara TV",
+    "iptv_urls": [
+      "https://stream.staratv.id/hls/0/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ig8Heof5b0HbF8",
     "name": "Stara TV Bandung",
     "iptv_urls": [
       "https://bandung.staratv.id/hls/0/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wQh13Um5b8b6uA",
+    "name": "Stara TV Cianjur",
+    "iptv_urls": [
+      "https://cianjur.staratv.id/hls/0/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2p68S1VfZNBPKr",
+    "name": "Stara TV Malang",
+    "iptv_urls": [
+      "https://malang.staratv.id/hls/0/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -1252,17 +1263,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/U07ButY35So"
     ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SlDXX35NImvk2c",
-    "name": "UGTV",
-    "iptv_urls": [
-      "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false

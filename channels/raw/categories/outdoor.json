@@ -67,8 +67,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jDP6MUrSN5cKSo",
-    "name": "DD Kisan",
+    "nanoid": "nOQMyaxMLN1dPp",
+    "name": "DD KISAN HD",
     "iptv_urls": [
       "https://cdn-6.pishow.tv/live/9/master.m3u8"
     ],
@@ -172,39 +172,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "iptv_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LP8ozNzGCQn1Jz",
     "name": "PursuitUP",
     "iptv_urls": [
@@ -249,6 +216,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KkgkdufaVWQuKo",
+    "name": "The Boat Show",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=UjpAnxTwLMK"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

@@ -176,6 +176,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fYdwb5ywlM6LyP",
+    "name": "Shout! Studios: The Little Rascals",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/MWrRwtRzyHs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qDdtJta6euRe24",
     "name": "The Carol Burnett Show",
     "iptv_urls": [
@@ -191,7 +202,7 @@
     "name": "TokuSHOUTsu: Retro Godzilla Marathon",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q2smjK772Ow"
+      "https://www.youtube-nocookie.com/embed/HNBissI65X0"
     ],
     "language": "jpn",
     "country": "us",

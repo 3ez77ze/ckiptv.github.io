@@ -333,6 +333,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XMf7sO2nbrA"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "iptv_urls": [
@@ -428,6 +439,17 @@
       "https://www.youtube-nocookie.com/embed/_8wuIvVkVnU"
     ],
     "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EgbF9TJv7t7rWC",
+    "name": "The Reuters 60",
+    "iptv_urls": [
+      "https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8?ads.vf=bQyhmgl-yf0"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -560,6 +582,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
