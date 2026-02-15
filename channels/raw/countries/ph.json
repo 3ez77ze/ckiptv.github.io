@@ -49,7 +49,7 @@
     "nanoid": "50fISDUbgXCYss",
     "name": "Living Asia Channel",
     "iptv_urls": [
-      "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
+      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -60,7 +60,7 @@
     "nanoid": "RhkfgHInexT7iQ",
     "name": "Mindanow Network TV",
     "iptv_urls": [
-      "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
+      "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -97,17 +97,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iy4DzSWvO3GYHT",
-    "name": "Teleradyo Serbisyo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XoNpYrED4Qk"
-    ],
-    "language": "tgl",
     "country": "ph",
     "isGeoBlocked": false
   },

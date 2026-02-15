@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sSZd8SV-r2Y"
+      "https://www.youtube-nocookie.com/embed/mb81WfTapiI"
     ],
     "language": "urd",
     "country": "pk",
@@ -48,7 +48,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x2FZrVn0de4"
+      "https://www.youtube-nocookie.com/embed/S_OgW-iJMVU"
     ],
     "language": "sd",
     "country": "pk",
@@ -161,6 +161,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9mXKvBYgZ_E"
     ],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F6sXz5Gj54UWsc",
+    "name": "Geo Tez (576i)",
+    "iptv_urls": [
+      "https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
@@ -392,7 +403,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/94OLqcL0ZPQ"
+      "https://www.youtube-nocookie.com/embed/76YCUJMXw6E"
     ],
     "language": "urd",
     "country": "pk",
@@ -459,7 +470,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QFVubKBRVEs"
+      "https://www.youtube-nocookie.com/embed/_Os3oarIDfo"
     ],
     "language": "sd",
     "country": "pk",
@@ -492,7 +503,7 @@
     "name": "VSH NEWS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oU3cEEVeTRE"
+      "https://www.youtube-nocookie.com/embed/kLUKOw64gFU"
     ],
     "language": "urd",
     "country": "pk",

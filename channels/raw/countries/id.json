@@ -138,9 +138,7 @@
     "iptv_urls": [
       "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
-    ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -175,6 +173,17 @@
     ],
     "youtube_urls": [],
     "language": "zho",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JTbs2lIH8ln5ro",
+    "name": "Davika TV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
     "country": "id",
     "isGeoBlocked": false
   },
@@ -216,17 +225,6 @@
     "name": "Duta TV",
     "iptv_urls": [
       "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Eg0R1qmDu85lEs",
-    "name": "Efarina TV",
-    "iptv_urls": [
-      "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -293,17 +291,6 @@
     "name": "Indonesiana.TV",
     "iptv_urls": [
       "https://tvstreamcast.com/indonesiana.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8iA6YqzUKduT8p",
-    "name": "Inspira TV",
-    "iptv_urls": [
-      "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -498,17 +485,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZAMsD9HhaPz9Bn",
-    "name": "Nusantara TV",
-    "iptv_urls": [
-      "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ts73mvVV0P9A9R",
     "name": "Official iNews",
     "iptv_urls": [],
@@ -535,17 +511,6 @@
     "name": "PKTV",
     "iptv_urls": [
       "https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3v2UZx2WqrnRDM",
-    "name": "Radar Tasikmalaya TV",
-    "iptv_urls": [
-      "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -664,34 +629,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4WttbEI2P66IMh",
-    "name": "Sangaji TV",
-    "iptv_urls": [
-      "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2XkFMpRoLYu9Ma",
     "name": "Selaparang TV",
     "iptv_urls": [
       "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JxtLgDEsjlg"
-    ],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -792,17 +735,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/UBEBkz6SKTk"
     ],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DoFmcYHnbbjDFG",
-    "name": "TATV",
-    "iptv_urls": [
-      "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -1222,17 +1154,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UM1CVLiIjzrIdV",
-    "name": "TVRI Yogyakarta",
-    "iptv_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
     "country": "id",
     "isGeoBlocked": false
   },

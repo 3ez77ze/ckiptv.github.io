@@ -375,12 +375,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IKwTslDp6GIv1l",
+    "nanoid": "EBJnvOws8NXMUv",
     "name": "Canal 26",
-    "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/c8Uxc6pwDNA"
     ],
@@ -393,17 +390,6 @@
     "name": "Canal 34 San Juan",
     "iptv_urls": [
       "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v7fuzMjUcfiKGk",
-    "name": "Canal 79 La Costa",
-    "iptv_urls": [
-      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -461,6 +447,17 @@
     "name": "Canal Orbe 21",
     "iptv_urls": [
       "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rexjgi9hzCbRd0",
+    "name": "Canal Provincial",
+    "iptv_urls": [
+      "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -567,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FEo_TAIhbNs"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "iptv_urls": [],
@@ -640,17 +626,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/x5fbS_4RrFU"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4Jx43q3AoFe9Yv",
-    "name": "Garage TV Latin America",
-    "iptv_urls": [
-      "https://stream1.sersat.com/hls/garagetv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -778,6 +753,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "082mRJOAbuwMDY",
+    "name": "Panc TV",
+    "iptv_urls": [
+      "https://panel.host-live.com:19360/20004/20004.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ajBSt6NuLSUT5M",
     "name": "Pop Radio 101.5",
     "iptv_urls": [],
@@ -855,32 +841,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jl6Vf7sjeIr2pi",
-    "name": "Radio TV Neuquén",
-    "iptv_urls": [
-      "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m0PY7A5wSbXayY",
     "name": "Radio Yguazú TV",
     "iptv_urls": [
       "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wqadc2o7wMWvHG",
-    "name": "RTN (Neuquén)",
-    "iptv_urls": [
-      "https://media.neuquen.gov.ar/rtn/television/media.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -954,23 +918,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rMuHd71jVt63rI",
-    "name": "Telemax",
+    "nanoid": "5dobEuPzzWq3sH",
+    "name": "Telenord Corrientes",
     "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
+      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C4INN3f93tsfyG",
-    "name": "Televisión Pública",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K9VYBo2KeTg"
-    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -1049,17 +1002,6 @@
       "https://cloud.tvomix.com/URBANMIX/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "njbWsA8ODBjdM0",
-    "name": "Urbana Play 104.3 FM",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_6A7bJZEHHI"
-    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false

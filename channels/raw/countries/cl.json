@@ -301,7 +301,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m2SuWPxp-cA"
+      "https://www.youtube-nocookie.com/embed/UGMhBO_3u3U"
     ],
     "language": "spa",
     "country": "cl",
@@ -598,32 +598,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uiKxEXDS2qwujf",
-    "name": "U Los Lagos TV",
-    "iptv_urls": [
-      "https://tv.ulagos.cl/web/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L90TWymzbjAtJm",
     "name": "UCV TV",
     "iptv_urls": [
       "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hXEWMB7iS10u9K",
-    "name": "UESTV",
-    "iptv_urls": [
-      "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

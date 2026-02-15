@@ -33,6 +33,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Qb63KGtBMhm9Xj",
+    "name": "BUM Televisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/visiondorada.m3u8",
+      "https://video.ejeserver.com/live/visiondorada.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z6j8GoKR6XeFrc",
     "name": "Cali TV",
     "iptv_urls": [
@@ -55,10 +67,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WwkDGrZMJxcaPL",
+    "name": "Canal 8 TV+",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/canal8tv.m3u8",
+      "https://video.ejeserver.com/live/canal8tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s64BgUfTafeYF2",
     "name": "Canal 14 Codazzi",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8056/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JjVGVjzCa9hXFe",
+    "name": "Canal Más Televisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+      "https://video.ejeserver.com/live/teledoradahd.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -150,28 +186,6 @@
     "iptv_urls": [
       "https://movil.ejeserver.com/live/cncbuga.m3u8",
       "https://video.ejeserver.com/live/cncbuga.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jFEWRPe45fuS69",
-    "name": "CNC Chocó",
-    "iptv_urls": [
-      "https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vlNh6cGmLuP4h1",
-    "name": "CNC Pereira",
-    "iptv_urls": [
-      "https://cloudpro.servidoresdestream.com:19360/latinchanel/latinchanel.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -390,6 +404,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zI3NybQoMP9Xkx",
+    "name": "Noticias Caracol",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kMNm9L0TM1w"
+    ],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p54OBJMG5m0fdl",
     "name": "Oasis TV",
     "iptv_urls": [
@@ -460,6 +485,17 @@
     "name": "RTC Televisión Urabá",
     "iptv_urls": [
       "https://cdn.amelbasoluciones.co:8081/rtcurabalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

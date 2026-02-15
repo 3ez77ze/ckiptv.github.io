@@ -864,17 +864,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sf2UUZ1IfXDGmN",
-    "name": "Omid",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DwXz9p5aswScVu",
     "name": "PAW Patrol (English)",
     "iptv_urls": [],
@@ -1000,7 +989,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LNVv8ylNxrk"
+      "https://www.youtube-nocookie.com/embed/tzP0dIWAWcw"
     ],
     "language": "por",
     "country": "br",
@@ -1048,17 +1037,6 @@
     ],
     "language": "jpn",
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D2Lk5wz1WJGy5f",
-    "name": "Pooya & Nahal",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1187,7 +1165,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KYQYci-UKZg"
+      "https://www.youtube-nocookie.com/embed/J2Ig8fkIGnI"
     ],
     "language": "eng",
     "country": "ca",
@@ -1198,7 +1176,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KxEKF1xkzk8"
+      "https://www.youtube-nocookie.com/embed/RJoKaBCcA-k"
     ],
     "language": "eng",
     "country": "ca",
@@ -1209,7 +1187,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GkaZjFNRAHM"
+      "https://www.youtube-nocookie.com/embed/Th0XAXBe090"
     ],
     "language": "eng",
     "country": "ca",
@@ -1432,7 +1410,7 @@
     "name": "WildBrain Kids",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u_9opnnfTb0"
+      "https://www.youtube-nocookie.com/embed/LDUsBrb_7tE"
     ],
     "language": "eng",
     "country": "uk",
@@ -1497,7 +1475,8 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1577,7 +1556,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OuQKwMFLV0A"
+      "https://www.youtube-nocookie.com/embed/G0GGg5OolRg"
     ],
     "language": "zho",
     "country": "cn",

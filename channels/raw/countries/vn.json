@@ -45,17 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S9KVQ5ABQqb8sk",
-    "name": "Cần Thơ TV3",
-    "iptv_urls": [
-      "https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fvs6m8m7Orxhly",
     "name": "Cao Bằng TV",
     "iptv_urls": [
@@ -82,7 +71,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PnYCImzOAUM"
+      "https://www.youtube-nocookie.com/embed/9Pafdf4mXZU"
     ],
     "language": "vie",
     "country": "vn",
@@ -137,7 +126,6 @@
     "nanoid": "QnYbafq8SSO9v0",
     "name": "HanoiTV1",
     "iptv_urls": [
-      "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -149,7 +137,6 @@
     "nanoid": "MO8deGVLY2zQ9f",
     "name": "HanoiTV2",
     "iptv_urls": [
-      "https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
     ],
     "youtube_urls": [],

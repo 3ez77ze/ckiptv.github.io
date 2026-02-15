@@ -45,6 +45,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZgdcsAoxUBnS3U",
+    "name": "BTB HD",
+    "iptv_urls": [
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "iptv_urls": [
@@ -133,6 +144,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/P1D1HOnb2m8"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SPKf8qiF4zzrz5",
     "name": "Jail",
     "iptv_urls": [
@@ -140,6 +162,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KFX8r91Rf69oJB",
+    "name": "Kapitan Bomba",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/C-YUX51R6sI"
+    ],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -322,11 +355,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mRFyheBmrSRckk",
+    "name": "Telewizja Dami Radom",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/2IISWfDPb7A"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hjCXHjX41BNCM8",
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LBnN6Lqs3ac"
+      "https://www.youtube-nocookie.com/embed/4E_vrn_964c"
     ],
     "language": "pol",
     "country": "pl",
@@ -548,7 +592,8 @@
     "nanoid": "XOB3inPkwkHuWb",
     "name": "TVP1",
     "iptv_urls": [
-      "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8"
+      "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8",
+      "https://lowa8026-cmyk.github.io/tvpvod/399697.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",

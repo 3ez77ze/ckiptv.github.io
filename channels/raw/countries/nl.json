@@ -833,17 +833,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UyWYSAuGPQ1FRF",
-    "name": "RTV Westerwolde",
-    "iptv_urls": [
-      "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MG8m0vh6HIQQvq",
     "name": "RTV Zulthe",
     "iptv_urls": [
@@ -870,17 +859,6 @@
     "name": "Salto 2",
     "iptv_urls": [
       "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EEWgpub612Jk4L",
-    "name": "Salto Brasa Music",
-    "iptv_urls": [
-      "https://salto-streams.nl/hls/sotv1.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

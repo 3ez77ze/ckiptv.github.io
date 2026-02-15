@@ -121,6 +121,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "om7GIuOIZrQShy",
+    "name": "Canal 10 Durango",
+    "iptv_urls": [
+      "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1FGdyXp2FzRogD",
     "name": "Canal 15 ILCE Summa Sabres",
     "iptv_urls": [
@@ -326,6 +337,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vEbucNjtWq8"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5lhODGYtGp6nxK",
+    "name": "ImagenTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3ytKPCx9F0c"
     ],
     "language": "spa",
     "country": "mx",
@@ -722,7 +744,7 @@
     "name": "Televisa Ciudad Juarez",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ye0eD63CLM4"
+      "https://www.youtube-nocookie.com/embed/ILCuynPWt3E"
     ],
     "language": "spa",
     "country": "mx",
@@ -799,7 +821,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cO5UsetvkIQ"
+      "https://www.youtube-nocookie.com/embed/2NqcGHEuCzc"
     ],
     "language": "spa",
     "country": "mx",
@@ -810,7 +832,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zCZURIHekIU"
+      "https://www.youtube-nocookie.com/embed/YLnSRk23gaA"
     ],
     "language": "spa",
     "country": "mx",
@@ -1129,17 +1151,6 @@
     "name": "UMTV",
     "iptv_urls": [
       "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2EyL9brYPFxMTy",
-    "name": "VB Media TV",
-    "iptv_urls": [
-      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

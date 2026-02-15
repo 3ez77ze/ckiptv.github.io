@@ -298,6 +298,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KFX8r91Rf69oJB",
+    "name": "Kapitan Bomba",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/C-YUX51R6sI"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mi17BkbSFMtULi",
     "name": "Kuriakos Kids",
     "iptv_urls": [

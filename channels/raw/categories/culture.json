@@ -67,17 +67,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kViHud7pJIRjfw",
-    "name": "AlKawthar",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -119,6 +108,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zK7yBiaKTXUpou",
+    "name": "BBC Four UK HD",
+    "iptv_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -252,7 +252,6 @@
     "name": "DD Bharati",
     "iptv_urls": [
       "https://cdn-1.pishow.tv/live/10/master.m3u8",
-      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
@@ -491,17 +490,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DTB26EOMXy8ybv",
-    "name": "IRIB4",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
     "iptv_urls": [
@@ -691,6 +679,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D7CJtpvcn5aeRw",
+    "name": "Nigbati",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n3MPyyNxowDoVf",
     "name": "Odisha TV",
     "iptv_urls": [
@@ -699,17 +698,6 @@
     "youtube_urls": [],
     "language": "ori",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J5GYuBAaffsbX6",
-    "name": "Ofogh",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1022,23 +1010,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "glNPCf2RbwoWmt",
-    "name": "zenith",
-    "iptv_urls": [
-      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8",
-      "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KBcCoX6T4T4OZ7",
     "name": "Культура",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

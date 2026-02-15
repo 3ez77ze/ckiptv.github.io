@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tHkld19ADlLsM",
-    "name": "Apna Punjab TV",
-    "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "iptv_urls": [
@@ -1082,7 +1071,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KYQYci-UKZg"
+      "https://www.youtube-nocookie.com/embed/J2Ig8fkIGnI"
     ],
     "language": "eng",
     "country": "ca",
@@ -1093,7 +1082,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KxEKF1xkzk8"
+      "https://www.youtube-nocookie.com/embed/RJoKaBCcA-k"
     ],
     "language": "eng",
     "country": "ca",
@@ -1104,7 +1093,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GkaZjFNRAHM"
+      "https://www.youtube-nocookie.com/embed/Th0XAXBe090"
     ],
     "language": "eng",
     "country": "ca",

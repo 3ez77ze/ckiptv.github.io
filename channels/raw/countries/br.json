@@ -70,7 +70,7 @@
     "name": "Boa Vontade TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9rGUGiPx8hw"
+      "https://www.youtube-nocookie.com/embed/8eNAEPDuNiY"
     ],
     "language": "por",
     "country": "br",
@@ -189,6 +189,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DqexB6yaP4LscU",
+    "name": "CNN Brasil",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/h4J-4obwbUg"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "iptv_urls": [
@@ -272,17 +283,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/IX9FJJTZ-Po"
     ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zCrJeuAQK2v5dx",
-    "name": "ElyTV",
-    "iptv_urls": [
-      "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -446,7 +446,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LNVv8ylNxrk"
+      "https://www.youtube-nocookie.com/embed/tzP0dIWAWcw"
     ],
     "language": "por",
     "country": "br",
@@ -503,7 +503,7 @@
       "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mETfP4wKCT0"
+      "https://www.youtube-nocookie.com/embed/CATVMA_xwN4"
     ],
     "language": "por",
     "country": "br",
@@ -571,6 +571,17 @@
       "https://acesso.ecast.site:3648/live/ritlive.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ahd2DoUsE7M"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -697,6 +708,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ez0ifGwmo3aIjZ",
+    "name": "TV ALERJ",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/FJAYSKkNPm8"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Cqne2l2Yb7a2Nr",
     "name": "TV Aliança Catarinense",
     "iptv_urls": [
@@ -747,7 +769,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PLTjW4OSJcI"
+      "https://www.youtube-nocookie.com/embed/gSDjr0QVH7w"
     ],
     "language": "por",
     "country": "br",
@@ -1282,6 +1304,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zBjyTtvDBTgspi",
+    "name": "TVC-Rio",
+    "iptv_urls": [
+      "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZZdTwNRdSLpHMP",
     "name": "TVCOM DF",
     "iptv_urls": [
@@ -1308,6 +1341,17 @@
     "name": "TVE RS",
     "iptv_urls": [
       "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eC07dfysQXyIGc",
+    "name": "TVídeoNews",
+    "iptv_urls": [
+      "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
