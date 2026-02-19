@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bl19xd6Od9LNtI",
-    "name": "13 Realities",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sFxGybHHfJgVTf",
     "name": "13 Teleseries",
     "iptv_urls": [
@@ -176,12 +165,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_ABazS_pq98"
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
     ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -191,7 +180,7 @@
     "name": "CHV Noticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pA2_bZQUgbw"
+      "https://www.youtube-nocookie.com/embed/6SAenbGMbS8"
     ],
     "language": "spa",
     "country": "cl",
@@ -308,17 +297,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LtuGw8CUEvQRPo",
-    "name": "La Popular TV",
-    "iptv_urls": [
-      "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O37bey4UFDgp1Q",
     "name": "Latina Network TV (576i)",
     "iptv_urls": [
@@ -334,7 +312,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-v41Bwc-wUw"
+      "https://www.youtube-nocookie.com/embed/PFiKcsVV1Xo"
     ],
     "language": "spa",
     "country": "cl",
@@ -413,7 +391,7 @@
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Whv3A5tymjc"
+      "https://www.youtube-nocookie.com/embed/fhxVUdIENuw"
     ],
     "language": "spa",
     "country": "cl",
@@ -509,17 +487,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mvCL9CmKOhlNrJ",
-    "name": "Televisión del Senado",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/66WdKJeN3-w"
-    ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Buf371rRZBbDSG",
     "name": "Tevex",
     "iptv_urls": [
@@ -547,17 +514,6 @@
     "name": "TNE",
     "iptv_urls": [
       "https://v2.tustreaming.cl/tnetv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aE41LbUT8Fnd7w",
-    "name": "Turf Movil",
-    "iptv_urls": [
-      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
     ],
     "youtube_urls": [],
     "language": "spa",

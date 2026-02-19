@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fUuKAKoxR67afP",
-    "name": "Canal Once",
-    "iptv_urls": [
-      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6SYW2B8xTfiTLL",
     "name": "Catatumbo TV",
     "iptv_urls": [
@@ -103,17 +92,6 @@
     "name": "GlobalTV",
     "iptv_urls": [
       "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gKZyGzv7VMGeI2",
-    "name": "Grande TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -253,18 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qRZZMGSFXehDnV",
-    "name": "TAM TV",
-    "iptv_urls": [
-      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hWg7qzmsLufJ67",
     "name": "Telecentro",
     "iptv_urls": [
@@ -331,6 +297,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1M4Le4GYVDf5Ni",
+    "name": "Televisora de Oriente",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iQsTa6Z2cWc5Ch",
+    "name": "Torococo TV",
+    "iptv_urls": [
+      "https://us.streaminghd.cl/torococotelevision/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rO6eV79GxNqt7n",
     "name": "TRT",
     "iptv_urls": [
@@ -346,17 +334,6 @@
     "name": "TRV",
     "iptv_urls": [
       "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b3aSHeBRmQKpi4",
-    "name": "TV Oasis Monay",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

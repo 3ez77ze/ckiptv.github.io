@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/evnfCX2ZA1M"
+      "https://www.youtube-nocookie.com/embed/hXSVel2RLkc"
     ],
     "language": "urd",
     "country": "pk",
@@ -37,7 +37,7 @@
     "name": "ARY News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ljnt4lm4M7c"
+      "https://www.youtube-nocookie.com/embed/7IH3HIElXGE"
     ],
     "language": "urd",
     "country": "pk",
@@ -48,7 +48,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e3MPtVeffeQ"
+      "https://www.youtube-nocookie.com/embed/0OTZbcMFBVw"
     ],
     "language": "sd",
     "country": "pk",
@@ -70,7 +70,7 @@
     "name": "City 21 News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IDo3Jlx4ps8"
+      "https://www.youtube-nocookie.com/embed/rIz4cF0jBnA"
     ],
     "language": "urd",
     "country": "pk",
@@ -232,6 +232,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v05zRUt0wtjOm3",
+    "name": "God Stands TV Hindi",
+    "iptv_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gmAnyp0vi78tWo",
+    "name": "God Stands TV Punjabi",
+    "iptv_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "udYM5OktKE92Dh",
     "name": "God Stands TV Tagalog",
     "iptv_urls": [
@@ -309,6 +331,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JR8xGfZUBJg"
+    ],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "iptv_urls": [
@@ -353,13 +386,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XNoYUMV4eTzrsQ",
+    "nanoid": "cdCHTYSuvWneRq",
     "name": "Madani Channel Urdu",
-    "iptv_urls": [
-      "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TKg-tEwebm0"
+      "https://www.youtube-nocookie.com/embed/c5bZrhCn4jM"
     ],
     "language": "urd",
     "country": "pk",
@@ -370,6 +401,18 @@
     "name": "PMI TV",
     "iptv_urls": [
       "https://cdn.live247stream.com/pmi/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "77LBTTq4JvQf4h",
+    "name": "Praise TV",
+    "iptv_urls": [
+      "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+      "https://pixelsmedia.live/livepraisetv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -414,7 +457,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8TvehE8l6sA"
+      "https://www.youtube-nocookie.com/embed/Mllclhh5OSU"
     ],
     "language": "sd",
     "country": "pk",

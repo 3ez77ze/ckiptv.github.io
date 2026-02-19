@@ -198,13 +198,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7Y9OONvhoyZDMD",
-    "name": "MCOT HD",
+    "nanoid": "229FKBkhihgZiC",
+    "name": "Lanthung TV",
     "iptv_urls": [
-      "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
+      "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "tha",
     "country": "th",
     "isGeoBlocked": false
   },

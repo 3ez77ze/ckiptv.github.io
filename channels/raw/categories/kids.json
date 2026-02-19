@@ -233,6 +233,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QFKHFoExvGyTwt",
+    "name": "Cartoon Network",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/DafNKGT4CLM",
+      "https://www.youtube-nocookie.com/embed/uZc9VKf9XPQ"
+    ],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cjno9NJJ87yGNT",
     "name": "Cartoon Network Asia",
     "iptv_urls": [],
@@ -347,7 +359,7 @@
     "name": "Clifford the Big Red Dog: Classic",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/c9WN78eOzWc"
+      "https://www.youtube-nocookie.com/embed/Lkgk1K4POis"
     ],
     "language": "eng",
     "country": "us",
@@ -358,7 +370,7 @@
     "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3zgPYFxGr-Q"
+      "https://www.youtube-nocookie.com/embed/yJ4JlqJCAlA"
     ],
     "language": "eng",
     "country": "us",
@@ -617,6 +629,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JR8xGfZUBJg"
+    ],
+    "language": "urd",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -955,7 +978,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zqrm_Ammk2A"
+      "https://www.youtube-nocookie.com/embed/4EsdvYCr4R0"
     ],
     "language": "por",
     "country": "br",
@@ -1014,17 +1037,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/E6F8eIxAgME"
-    ],
-    "language": "kor",
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1171,17 +1183,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TySA39TBXkPWzI",
-    "name": "Taha TV",
-    "iptv_urls": [
-      "https://media1.livaat.com/static/TAHA_TV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "lb",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bgFuKbSHcQiqv7",
     "name": "The Land Before Time",
     "iptv_urls": [],
@@ -1190,17 +1191,6 @@
     ],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m5MgU7qKVzOReb",
-    "name": "The Smurfs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UCFMzV2k5_w"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1281,17 +1271,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KUTGOu9eHmEeCI",
-    "name": "TRT Çocuk",
-    "iptv_urls": [
-      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -1387,7 +1366,7 @@
     "name": "WildBrain Çocuklar: Twirlywoos",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CKDuuPJgCCc"
+      "https://www.youtube-nocookie.com/embed/Wu4Dj6myefI"
     ],
     "language": "tur",
     "country": "tr",
@@ -1452,8 +1431,7 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1533,7 +1511,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VbsmpOGgAF8"
+      "https://www.youtube-nocookie.com/embed/kaqe5eR6WZ4"
     ],
     "language": "zho",
     "country": "cn",

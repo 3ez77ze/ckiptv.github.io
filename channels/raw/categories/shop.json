@@ -37,7 +37,7 @@
     "name": "AAC Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gzk4nIsS8lA"
+      "https://www.youtube-nocookie.com/embed/pCj1mdpC0Xo"
     ],
     "language": "eng",
     "country": "us",
@@ -92,10 +92,21 @@
     "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-ZWsu7GHcDc"
+      "https://www.youtube-nocookie.com/embed/LQnWDMvxtSE"
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/eqJV_nmke_I"
+    ],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {

@@ -199,17 +199,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cEtgYgEtHzj5Ic",
-    "name": "ColimdoT TV",
-    "iptv_urls": [
-      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4mVBHDTfCZRFFH",
     "name": "Cricket Gold",
     "iptv_urls": [
@@ -244,6 +233,18 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -332,6 +333,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4r0QKfGoGD09Z7",
+    "name": "FTV",
+    "iptv_urls": [
+      "https://master.tucableip.com/ftvhd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -875,8 +887,7 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -996,17 +1007,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aE41LbUT8Fnd7w",
-    "name": "Turf Movil",
-    "iptv_urls": [
-      "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
     "isGeoBlocked": false
   },
   {

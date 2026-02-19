@@ -386,17 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fU7mUMEnsqINVT",
-    "name": "MBC Chuncheon (춘천 MBC)",
-    "iptv_urls": [
-      "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CVYe8DrHATgn7K",
     "name": "MBC Daejeon (대전 MBC)",
     "iptv_urls": [
@@ -485,28 +474,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/E6F8eIxAgME"
-    ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "iptv_urls": [
@@ -522,7 +489,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5koYbW1tGZA"
+      "https://www.youtube-nocookie.com/embed/A4KGC4ere3U"
     ],
     "language": "kor",
     "country": "kr",

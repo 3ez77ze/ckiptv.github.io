@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tabafcg5kRDnTr",
-    "name": "Film Atölyesi: Şener Şen Filmleri",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pdyq7lixkPI"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "52cUdXgN2lEt5P",
     "name": "FilmRise Classic TV",
     "iptv_urls": [
@@ -63,17 +52,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rk4CX2TtGGZ6cO",
-    "name": "Gülşah Film: Kemal Sunal Filmleri",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VkB9S_nInbA"
-    ],
-    "language": "tur",
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -147,7 +125,7 @@
     "name": "Shout! Studios: Elvira's Movie Macabre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HWT4wRZ86NY"
+      "https://www.youtube-nocookie.com/embed/8mN5GeSfrAA"
     ],
     "language": "eng",
     "country": "us",
@@ -180,7 +158,7 @@
     "name": "Shout! Studios: The Little Rascals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8qUJoev8thw"
+      "https://www.youtube-nocookie.com/embed/ZlUWKRBWxUA"
     ],
     "language": "eng",
     "country": "us",
@@ -382,17 +360,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5N50bnTr2ohfWL",
-    "name": "Xtrema Cine Clasico",
-    "iptv_urls": [
-      "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
