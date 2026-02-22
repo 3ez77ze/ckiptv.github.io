@@ -58,7 +58,6 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -350,17 +349,6 @@
     "name": "Canal Doñana",
     "iptv_urls": [
       "https://secure5.todostreaming.es/live/division-alm.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CTfUhDJ1psN0TH",
-    "name": "Canal Extremadura Satelite",
-    "iptv_urls": [
-      "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -820,6 +808,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YDIi3VBX7D7fKC",
+    "name": "La 2 Catalunya",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1667,17 +1666,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mOCMYDYV2t8RPY",
-    "name": "Trece",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

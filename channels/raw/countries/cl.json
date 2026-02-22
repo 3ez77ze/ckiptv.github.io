@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JmmUfpMTKm3wFZ",
+    "name": "Atacama TV (Copiapó)",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/atacamatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9jkb1tHOSl1q2X",
     "name": "Aysen TV",
     "iptv_urls": [
@@ -169,19 +180,8 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6dxf1LgPFYE"
+      "https://www.youtube-nocookie.com/embed/g3hL3YYeFaQ"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -191,7 +191,7 @@
     "name": "CHV Noticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6SAenbGMbS8"
+      "https://www.youtube-nocookie.com/embed/nDMIak5n3CQ"
     ],
     "language": "spa",
     "country": "cl",
@@ -325,6 +325,17 @@
       "https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ubJBXevTlFFMsm",
+    "name": "Meganoticias",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BY9ketm67U0"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -680,6 +691,17 @@
     "name": "VC Online",
     "iptv_urls": [
       "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "osBw1hYyNiagCw",
+    "name": "Vision Plus TV (1080i)",
+    "iptv_urls": [
+      "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

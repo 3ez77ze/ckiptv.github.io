@@ -88,6 +88,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nur67kMzGvKND6",
+    "name": "Best TV",
+    "iptv_urls": [
+      "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9nOkMHgBurW2UW",
+    "name": "Blue Sky TV",
+    "iptv_urls": [
+      "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0iu8NXGmAws9mO",
     "name": "Corfu Channel",
     "iptv_urls": [
@@ -103,7 +125,7 @@
     "name": "ecclesiaTV.gr",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pSiFOWR3YG8"
+      "https://www.youtube-nocookie.com/embed/lNxUOvJWjSw"
     ],
     "language": "ell",
     "country": "gr",
@@ -143,10 +165,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5ZeYm0HuWlcYQ2",
-    "name": "Ionian Channel",
+    "nanoid": "slRsHngNcym3tq",
+    "name": "Kontra Channel",
     "iptv_urls": [
-      "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
+      "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

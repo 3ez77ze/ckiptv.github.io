@@ -145,6 +145,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DqexB6yaP4LscU",
+    "name": "CNN Brasil",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/yCVr8MW72Go"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "iptv_urls": [
@@ -402,7 +413,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GMgnifWz8wI"
+      "https://www.youtube-nocookie.com/embed/mepw6aUGHC4"
     ],
     "language": "por",
     "country": "br",
@@ -459,7 +470,7 @@
       "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QUEROKUEEfo"
+      "https://www.youtube-nocookie.com/embed/dffNvQ-DzbA"
     ],
     "language": "por",
     "country": "br",
@@ -488,17 +499,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jGHLE7FGPpDgid",
-    "name": "Rede NGT",
-    "iptv_urls": [
-      "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "trGjHBEHG2rfsL",
     "name": "Rede SPTV",
     "iptv_urls": [
@@ -514,7 +514,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7jxZr-69PDc"
+      "https://www.youtube-nocookie.com/embed/YUsd-vA8e_0"
     ],
     "language": "por",
     "country": "br",
@@ -527,6 +527,17 @@
       "https://acesso.ecast.site:3648/live/ritlive.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O8tFJhKTZ0GylR",
+    "name": "Santa Cruz Feira Digital",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/oTgt8v074UU"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -570,28 +581,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/IXsJ5jRTFGM"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AirKXuG95kE7xD",
-    "name": "SBT Rio",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wTbYXzZXwYI"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RSNMIqz61yHtc6",
-    "name": "SBT RS",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fr9XUdDJkk0"
     ],
     "language": "por",
     "country": "br",
@@ -657,7 +646,7 @@
     "name": "TV ALERJ",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZShhM8ctRc8"
+      "https://www.youtube-nocookie.com/embed/RoRHBCu5bCA"
     ],
     "language": "por",
     "country": "br",
@@ -714,7 +703,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KoXvEnFF5rA"
+      "https://www.youtube-nocookie.com/embed/nBNUVpdE93w"
     ],
     "language": "por",
     "country": "br",
@@ -732,32 +721,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2bhXPviPJO5yGg",
-    "name": "TV Brasil Oeste",
-    "iptv_urls": [
-      "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KVllxnWTBDMvKb",
     "name": "TV BRICS Portuguese",
     "iptv_urls": [
       "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "riJfvbebPYWsNV",
-    "name": "TV Brusque",
-    "iptv_urls": [
-      "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -1000,6 +967,17 @@
     "name": "TV Metropole",
     "iptv_urls": [
       "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0XYeCTIMchk7xn",
+    "name": "TV Modelo",
+    "iptv_urls": [
+      "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u"
     ],
     "youtube_urls": [],
     "language": "por",

@@ -386,6 +386,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LKw5dooNM64sYJ",
+    "name": "Canal 32",
+    "iptv_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RMbGSeJmY7CCNa",
     "name": "Cannes Lérins TV",
     "iptv_urls": [
@@ -397,21 +408,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WxYEpzQmBTG6Du",
-    "name": "Drive TV",
+    "nanoid": "4TFbQdQIR6USV5",
+    "name": "DBM TV",
     "iptv_urls": [
-      "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8"
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x74kBxlCSA3rr8",
-    "name": "Enquetes de Choc",
+    "nanoid": "WxYEpzQmBTG6Du",
+    "name": "Drive TV",
     "iptv_urls": [
-      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+      "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1488,7 +1499,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

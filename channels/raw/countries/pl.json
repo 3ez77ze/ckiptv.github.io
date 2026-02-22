@@ -188,6 +188,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lgqzeQFxqCN8jW",
+    "name": "NewTV",
+    "iptv_urls": [
+      "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+      "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "iptv_urls": [
@@ -207,17 +219,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yVHVo5RwmcKcvS",
-    "name": "Radio Czwórka",
-    "iptv_urls": [
-      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -336,7 +337,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6vQokzwyF2s"
+      "https://www.youtube-nocookie.com/embed/zFwWanhVXJg"
     ],
     "language": "pol",
     "country": "pl",
@@ -501,7 +502,7 @@
     "name": "TV Relax",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WX_jUsc1_pQ"
+      "https://www.youtube-nocookie.com/embed/clRXwhUAwhI"
     ],
     "language": "pol",
     "country": "pl",
@@ -584,17 +585,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "iptv_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

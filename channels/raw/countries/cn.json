@@ -248,6 +248,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v5Cnt9e5fETRq9",
+    "name": "QTV-3",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v5Etfhhhhl9Em5",
     "name": "QTV-4",
     "iptv_urls": [
@@ -506,7 +517,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e8jdb6TY1Mg"
+      "https://www.youtube-nocookie.com/embed/sHeAmZ_vy9o"
     ],
     "language": "zho",
     "country": "cn",

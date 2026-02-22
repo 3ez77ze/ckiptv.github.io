@@ -245,17 +245,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GIDOx8HxzwtiTZ",
-    "name": "GH Canada TV",
-    "iptv_urls": [
-      "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N7y193rYKVUHc8",
     "name": "GTN Canada (1080i)",
     "iptv_urls": [
@@ -983,7 +972,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/R9UPUgmxrG8"
+      "https://www.youtube-nocookie.com/embed/6Nww0JZ9m-4"
     ],
     "language": "eng",
     "country": "ca",
@@ -994,7 +983,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ri4kV_19Icg"
+      "https://www.youtube-nocookie.com/embed/fU59yt5b7l4"
     ],
     "language": "eng",
     "country": "ca",
@@ -1005,7 +994,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OroCvLLGHxA"
+      "https://www.youtube-nocookie.com/embed/DiTI6baX2CE"
     ],
     "language": "eng",
     "country": "ca",
@@ -1115,7 +1104,7 @@
     "name": "TV Témis",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/t9WCZ3ILMeg"
+      "https://www.youtube-nocookie.com/embed/dCQBjhUKxcg"
     ],
     "language": "fra",
     "country": "ca",

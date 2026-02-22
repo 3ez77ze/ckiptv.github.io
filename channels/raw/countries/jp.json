@@ -37,7 +37,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g6C01dGKLsY"
+      "https://www.youtube-nocookie.com/embed/ydyOXikhnvU"
     ],
     "language": "jpn",
     "country": "jp",
@@ -248,17 +248,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Fn3IhUAmzUM"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dS0Hi9Oo1lT24W",
-    "name": "RKB News 24",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zfoUwTPNxgA"
     ],
     "language": "jpn",
     "country": "jp",

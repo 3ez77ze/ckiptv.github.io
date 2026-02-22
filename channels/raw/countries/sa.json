@@ -177,7 +177,7 @@
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RJfNj_tZ7Sw"
+      "https://www.youtube-nocookie.com/embed/K1O0LgzDVqU"
     ],
     "language": "ara",
     "country": "sa",
@@ -333,6 +333,17 @@
       "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gc9Dx83f1hgp7k",
+    "name": "العربية إف إم Alarabiya FM",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/rWwH6Nc7ukk"
+    ],
     "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
