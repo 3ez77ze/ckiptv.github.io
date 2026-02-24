@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BHoTvgxAWuPUYQ",
+    "name": "Canal 2 Alpavisión Neiva",
+    "iptv_urls": [
+      "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WwkDGrZMJxcaPL",
     "name": "Canal 8 TV+",
     "iptv_urls": [
@@ -282,17 +293,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
-    "iptv_urls": [
-      "https://live.arnoproducciones.com/hls/norte.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "iptv_urls": [
@@ -448,10 +448,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iEaQZyuCD9tKa4",
-    "name": "Red+",
+    "nanoid": "JcWgUdRfwM6UkT",
+    "name": "Reyali",
     "iptv_urls": [
-      "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+      "https://eu1.servers10.com:8081/8090/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -459,10 +459,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JcWgUdRfwM6UkT",
-    "name": "Reyali",
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
     "iptv_urls": [
-      "https://eu1.servers10.com:8081/8090/index.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -486,6 +486,17 @@
     "iptv_urls": [
       "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
       "https://us.streaminghd.cl/suramtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

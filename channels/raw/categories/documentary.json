@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aV0KHc-LmNA"
+      "https://www.youtube-nocookie.com/embed/hwKy9Q3no3Q"
     ],
     "language": "jpn",
     "country": "jp",
@@ -53,6 +53,17 @@
     "language": "eng",
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BKprRPWc9ugskl",
+    "name": "Backstage",
+    "iptv_urls": [
+      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "A5X8ark1iIaicP",
@@ -163,8 +174,8 @@
     "name": "Court TV",
     "iptv_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -396,17 +407,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -516,6 +516,17 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

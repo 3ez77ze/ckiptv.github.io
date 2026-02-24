@@ -187,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JdxBGAz4N8XmqU",
+    "name": "LGD Television",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QfjrYuWRCRpUp7",
     "name": "Más Talk",
     "iptv_urls": [
@@ -346,17 +357,6 @@
     "name": "Telesur HD",
     "iptv_urls": [
       "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1M4Le4GYVDf5Ni",
-    "name": "Televisora de Oriente",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

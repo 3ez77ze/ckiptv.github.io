@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M8nsyNmz1k1pVX",
+    "name": "Exitosa TV",
+    "iptv_urls": [
+      "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8STBORDBYmEtNC",
     "name": "Impacto Televisión",
     "iptv_urls": [
@@ -158,6 +169,17 @@
     "name": "Intuitiva TV",
     "iptv_urls": [
       "https://video2.lhdserver.es/cableperu/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lM6iZ019g4zRqa",
+    "name": "JN19",
+    "iptv_urls": [
+      "https://servilive.com:3028/live/jntv19live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

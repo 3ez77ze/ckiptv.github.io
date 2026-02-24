@@ -154,6 +154,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c3zaL7CKyoj6u1",
+    "name": "Gamavisión",
+    "iptv_urls": [
+      "https://stream.esradioecuador.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rzz3epvsT10Pp4",
     "name": "GM7 Digital",
     "iptv_urls": [
@@ -499,17 +510,6 @@
     "name": "Telerama",
     "iptv_urls": [
       "https://play.once.net.ec/telerama/live.tv/538.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CY38SV2i5DFUTV",
-    "name": "TV Cisne",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/tvcisne/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

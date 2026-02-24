@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t9oYt4NY18iZul",
+    "name": "Anime Vanguard Live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dEwrHcH6Ac4"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkDzNHa7Mm4MEd",
     "name": "Anime Vision",
     "iptv_urls": [
@@ -180,7 +191,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q_jMmLcW04Q"
+      "https://www.youtube-nocookie.com/embed/iEOkrDbLBS8"
     ],
     "language": "eng",
     "country": "ca",

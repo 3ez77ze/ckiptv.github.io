@@ -227,7 +227,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q_jMmLcW04Q"
+      "https://www.youtube-nocookie.com/embed/iEOkrDbLBS8"
     ],
     "language": "eng",
     "country": "ca",
@@ -240,6 +240,17 @@
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xdWaSMmXydI"
+    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -384,6 +395,28 @@
     "name": "Knowledge Network",
     "iptv_urls": [
       "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "o3TJTeJqxvVtfC",
+    "name": "Legislative Assembly of British Columbia",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sKpGu4p0lFyUMb",
+    "name": "Legislative Assembly of British Columbia Committee A",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -972,7 +1005,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6Nww0JZ9m-4"
+      "https://www.youtube-nocookie.com/embed/aoJZtreiZs8"
     ],
     "language": "eng",
     "country": "ca",
@@ -983,7 +1016,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fU59yt5b7l4"
+      "https://www.youtube-nocookie.com/embed/PRKZb7zQdFs"
     ],
     "language": "eng",
     "country": "ca",
@@ -994,7 +1027,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DiTI6baX2CE"
+      "https://www.youtube-nocookie.com/embed/CTZy2pzLgh0"
     ],
     "language": "eng",
     "country": "ca",

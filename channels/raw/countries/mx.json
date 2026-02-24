@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "om7GIuOIZrQShy",
-    "name": "Canal 10 Durango",
-    "iptv_urls": [
-      "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1FGdyXp2FzRogD",
     "name": "Canal 15 ILCE Summa Sabres",
     "iptv_urls": [
@@ -158,17 +147,6 @@
     "name": "Canal 44 Ciudad Juárez",
     "iptv_urls": [
       "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mCYSTDjXapnUpp",
-    "name": "Canal del Congreso 45.1",
-    "iptv_urls": [
-      "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -325,8 +303,19 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pluQDHKV8f4"
+      "https://www.youtube-nocookie.com/embed/DMu_2YhjrAQ"
     ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hvpyyH4xiS4fE5",
+    "name": "IMRyT Morelos TV",
+    "iptv_urls": [
+      "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -431,12 +420,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCFfnKm8W8E1LH",
-    "name": "NMás",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-q4yzRryy6k"
+    "nanoid": "58rlKy9eXNIQTh",
+    "name": "Notigram TV (XHFGL-TDT)",
+    "iptv_urls": [
+      "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -589,6 +578,17 @@
     "name": "SIPSE TV 8.1",
     "iptv_urls": [
       "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bqZG2nHHXJFyOO",
+    "name": "SIPSE TVCUN 8.1",
+    "iptv_urls": [
+      "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -777,7 +777,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z9QIRsFF6w8"
+      "https://www.youtube-nocookie.com/embed/KSv0Fa26iZs"
     ],
     "language": "spa",
     "country": "mx",
@@ -788,7 +788,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Py62vgSbo9w"
+      "https://www.youtube-nocookie.com/embed/19wtHZAcH1g"
     ],
     "language": "spa",
     "country": "mx",
