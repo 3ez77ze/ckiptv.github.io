@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "OuXJk2O3QtFOgh",
+    "name": "24/7 Canal de Noticias",
+    "iptv_urls": [
+      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Wa2wvWwVF98vcA",
     "name": "A24",
     "iptv_urls": [],
@@ -48,17 +59,6 @@
     "name": "Azahares Radio Multimedia",
     "iptv_urls": [
       "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o15OiPkM4jxoZp",
-    "name": "Bayres TV",
-    "iptv_urls": [
-      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -176,6 +176,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D3rtXC7Gev4etZ",
+    "name": "Canal 4 Posadas",
+    "iptv_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "j1Mx0NYk5KtzPX",
     "name": "Canal 4 San Juan",
     "iptv_urls": [
@@ -191,17 +202,6 @@
     "name": "Canal 5 Del Pueblo",
     "iptv_urls": [
       "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Qltnj6pxW46J3l",
-    "name": "Canal 5 Santa Fe",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -226,6 +226,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/3WjwrTwJHDM"
     ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RjGzeK99LgjrbF",
+    "name": "Canal 6 Posadas",
+    "iptv_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -320,11 +331,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pGg9E7GpQgpIle",
+    "name": "Canal 11 de la Costa",
+    "iptv_urls": [
+      "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Gu6k19yrwk0QaT",
     "name": "Canal 13 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VPrmqHXj848"
+      "https://www.youtube-nocookie.com/embed/DBaNt0eKN4E"
     ],
     "language": "spa",
     "country": "ar",
@@ -335,6 +357,17 @@
     "name": "Canal 13 San Luis",
     "iptv_urls": [
       "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "urMZ5Xb5qp5veO",
+    "name": "Canal 21 TV",
+    "iptv_urls": [
+      "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -382,6 +415,17 @@
     "name": "Canal 79 La Costa",
     "iptv_urls": [
       "https://streamconex.com:19360/lacosta/lacosta.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2e5tE1tEuJnQJw",
+    "name": "Canal 79 Mar del Plata",
+    "iptv_urls": [
+      "https://streamconex.com:19360/mardelplata/mardelplata.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -479,10 +523,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "njewIOEi3Bzjbb",
-    "name": "Chilecito TV",
+    "nanoid": "YK4jerPW8Ia03w",
+    "name": "Chaco TV",
     "iptv_urls": [
-      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
+      "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -527,7 +571,7 @@
     "name": "Diputados TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HugsOqwPsHA"
+      "https://www.youtube-nocookie.com/embed/G6W51ntv4M0"
     ],
     "language": "spa",
     "country": "ar",
@@ -549,7 +593,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wBV34z9cdK8"
+      "https://www.youtube-nocookie.com/embed/rrxowoU6rYw"
     ],
     "language": "spa",
     "country": "ar",
@@ -616,7 +660,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cLlBCeT9jsQ"
+      "https://www.youtube-nocookie.com/embed/MdPIIYmXnJA"
     ],
     "language": "spa",
     "country": "ar",
@@ -733,11 +777,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nCjEym27rIb7Sc",
-    "name": "NET TV",
+    "nanoid": "jhtVZGk1rHoaP8",
+    "name": "Misiones Cuatro",
     "iptv_urls": [
-      "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+      "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -745,10 +788,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "082mRJOAbuwMDY",
-    "name": "Panc TV",
+    "nanoid": "nCjEym27rIb7Sc",
+    "name": "NET TV",
     "iptv_urls": [
-      "https://panel.host-live.com:19360/20004/20004.m3u8"
+      "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+      "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -866,10 +910,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rPtKuLjPt7QNrN",
-    "name": "Sicardi TV",
+    "nanoid": "4D71cx5fvZCZ53",
+    "name": "San Pedro TV",
     "iptv_urls": [
-      "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8"
+      "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1036,7 +1080,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2t3yIarhEME"
+      "https://www.youtube-nocookie.com/embed/4pRJp8e5zQk"
     ],
     "language": "spa",
     "country": "ar",

@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9RwFnJ12MgiGgP",
+    "name": "La Top 107.7",
+    "iptv_urls": [
+      "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gtCaykQvpamqwT",
     "name": "Lenca Television Canal 40",
     "iptv_urls": [
@@ -235,6 +246,17 @@
     "name": "Telerayo",
     "iptv_urls": [
       "https://s.emisoras.tv:8081/telerayo/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uoM0jHqhHe7tUv",
+    "name": "Televisión Metrópolis 19.1",
+    "iptv_urls": [
+      "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

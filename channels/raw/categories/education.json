@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/geHBfHZpeoQ"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "iptv_urls": [
@@ -720,17 +731,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qHPud6QAjClK6g",
     "name": "Palestine Edu",
     "iptv_urls": [
@@ -739,6 +739,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "iptv_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1105,6 +1116,17 @@
     ],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dux8IWjtPNnNTy",
+    "name": "Vyas NIC",
+    "iptv_urls": [
+      "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "in",
     "isGeoBlocked": false
   },
   {

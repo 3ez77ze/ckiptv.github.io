@@ -1,28 +1,5 @@
 [
   {
-    "nanoid": "eUdFR37xIskeb6",
-    "name": "4 Fun Kids (576i) []",
-    "iptv_urls": [
-      "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gnXbQSLxnNAtTV",
-    "name": "4 Fun TV",
-    "iptv_urls": [
-      "https://stream.4fun.tv:8888/hls/4f.m3u8",
-      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel",
     "iptv_urls": [
@@ -30,6 +7,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/geHBfHZpeoQ"
+    ],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -519,18 +507,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Se7x9HGaZbNY8X",
-    "name": "TVP Info",
-    "iptv_urls": [
-      "https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8",
-      "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fzamcn1eHJ76Mf",
     "name": "TVP Polonia",
     "iptv_urls": [
@@ -573,6 +549,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

@@ -427,21 +427,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CiGC7hiaz7dMhM",
-    "name": "Filstalwelle",
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
     "iptv_urls": [
-      "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
+      "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "deu",
+    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JUHY7ZFUwE8O9n",
-    "name": "Finest TV",
+    "nanoid": "CiGC7hiaz7dMhM",
+    "name": "Filstalwelle",
     "iptv_urls": [
-      "https://media.finest.tv/hls/live.m3u8"
+      "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

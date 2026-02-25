@@ -485,12 +485,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로: #1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Wo8rrVO2Eek"
     ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -511,7 +511,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4OW-v3bU_zU"
+      "https://www.youtube-nocookie.com/embed/SXwKDtH6vnM"
     ],
     "language": "kor",
     "country": "kr",
@@ -622,17 +622,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/zVHY8x3YhXw"
-    ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vhNaz7xD7cy5Pv",
-    "name": "TVCHOSUN MUSIC",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GwGKUlfzD-Q"
     ],
     "language": "kor",
     "country": "kr",

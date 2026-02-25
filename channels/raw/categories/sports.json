@@ -568,17 +568,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H7YKUTmTDg1xzR",
-    "name": "M-Net Sport",
-    "iptv_urls": [
-      "https://live.mnet.mk/hls/mnet-sport.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mkd",
-    "country": "mk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "iptv_urls": [
@@ -612,17 +601,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WjzlJmHsxUPxpZ",
-    "name": "MNB Sport",
-    "iptv_urls": [
-      "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VV5nh58QSIjuA6",
     "name": "More Than Sports TV",
     "iptv_urls": [
@@ -631,6 +609,28 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nKepPfPxroGdqa",
+    "name": "MotoGP",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/f4Fg_BZwl3E"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Da460ZcoL5SJKT",
+    "name": "Multivisión Sports",
+    "iptv_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -692,6 +692,7 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1006,17 +1007,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MF8dCK1EmeF821",
-    "name": "Tour Spot TV",
-    "iptv_urls": [
-      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PoFjoPeTQSvrgP",
     "name": "TR Sport",
     "iptv_urls": [
@@ -1069,6 +1059,17 @@
     "youtube_urls": [],
     "language": "ron",
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OS0pJpfqrL4sYH",
+    "name": "TVRI Sport",
+    "iptv_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1169,6 +1170,17 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HoPPiJ6zSU8JBV",
+    "name": "W14DK-D 14.5 All Sports Television Network",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {

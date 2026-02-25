@@ -48,9 +48,20 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RQztYHYVPN8"
+      "https://www.youtube-nocookie.com/embed/4C4tLGJiZXg"
     ],
     "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vLJxCfSjAO72Wd",
+    "name": "Belmedia TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-aWbH6k9968"
+    ],
+    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -527,17 +538,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "iptv_urls": [
-      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XVgAGRmSpMBubT",
     "name": "Newfoundland Television",
     "iptv_urls": [
@@ -996,39 +996,6 @@
       "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3C5tAme4Sy2gIV",
-    "name": "Super Simple: Bedtime Songs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aoJZtreiZs8"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GdyuPfPjDfUi5s",
-    "name": "Super Simple: Noodle and Pals",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PRKZb7zQdFs"
-    ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5X99oRpChEcKAS",
-    "name": "Super Simple: Simple Songs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CTZy2pzLgh0"
-    ],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false

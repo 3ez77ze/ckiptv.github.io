@@ -350,17 +350,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wxgTqGh1y0E"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -765,6 +754,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FeQiCZUhzv3lT3",
+    "name": "Moonbug Kids",
+    "iptv_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nKepPfPxroGdqa",
+    "name": "MotoGP",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/f4Fg_BZwl3E"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3VQ70bm6nYhxs7",
     "name": "Mr Bean Live Action",
     "iptv_urls": [
@@ -886,17 +897,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1439,34 +1439,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S031zk98bWY7Ix",
-    "name": "WildBrain Kids",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WoCc7cX8ohw"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "at7QYcug7oV0tu",
-    "name": "WildBrain Max: LEGO",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HeXrYFbLUoY"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "he2lOUztjAzsDr",
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ug6fT2VaPkw"
+      "https://www.youtube-nocookie.com/embed/tWoNZhmuR_U"
     ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
+    "iptv_urls": [
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

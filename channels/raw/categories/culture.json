@@ -270,9 +270,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFNCaAwRc0UY6z",
+    "nanoid": "glCzEHKt380JpA",
     "name": "DD Bharati",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-1.pishow.tv/live/10/master.m3u8",
+      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/X4U_ws5upTE"
     ],
@@ -376,6 +380,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SLi8f8Yz14oKR0",
     "name": "ETV2",
     "iptv_urls": [
@@ -444,14 +459,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o8GJhpgQxXREN1",
-    "name": "Geb Tv (KBPX LD5)",
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
     "iptv_urls": [
-      "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "vie",
-    "country": "us",
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -775,17 +790,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T0s7Y4K2sYggX7",
-    "name": "Orler TV",
-    "iptv_urls": [
-      "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "V3b7nvXml8zERG",
     "name": "Paci Contemporary Channel",
     "iptv_urls": [
@@ -908,17 +912,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WSVwH48J9agVpk",
-    "name": "TBN TV",
-    "iptv_urls": [
-      "https://live.suricloud.com/hls/tbntv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bZLmwi1rLZYaKq",
     "name": "Telepace 2",
     "iptv_urls": [
@@ -1029,6 +1022,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAUF947AFuFdtH",
+    "name": "Vĩnh Long TV5",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "iptv_urls": [
@@ -1043,8 +1047,7 @@
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "iptv_urls": [
-      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8",
-      "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8"
+      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1057,6 +1060,17 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

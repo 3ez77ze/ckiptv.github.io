@@ -66,6 +66,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I6SQhQn74t89lq",
+    "name": "B15 Fresnillo",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9BZEZK4EYJz8lC",
+    "name": "B15 Zacatecas",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "iptv_urls": [
@@ -211,6 +233,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y2XbgAUNu1jdKZ",
     "name": "Expresa TV",
     "iptv_urls": [
@@ -292,7 +325,7 @@
     "name": "Imagen Multicast",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7vPWNpGdfhY"
+      "https://www.youtube-nocookie.com/embed/IQUo1yg_dY4"
     ],
     "language": "spa",
     "country": "mx",
@@ -303,7 +336,7 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DMu_2YhjrAQ"
+      "https://www.youtube-nocookie.com/embed/WUD0EVMZIhI"
     ],
     "language": "spa",
     "country": "mx",
@@ -387,6 +420,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LDqkJug92BmcZt",
+    "name": "Milenio Televisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YJbLHxHYnwg"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iSOfFIrnvu17Xp",
     "name": "Monte Maria",
     "iptv_urls": [
@@ -415,6 +459,17 @@
       "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCFfnKm8W8E1LH",
+    "name": "NMás",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/K3BtBR8o1Ac"
+    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -666,7 +721,7 @@
     "name": "Telediario Guadalajara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SAzP_RfHcdE"
+      "https://www.youtube-nocookie.com/embed/CKG7-u8K-2M"
     ],
     "language": "spa",
     "country": "mx",
@@ -740,17 +795,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9bf7FdY5Rbg5t",
-    "name": "Televisa Guerrero",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WJlp4QwqUG8"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "iptv_urls": [],
@@ -777,7 +821,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KSv0Fa26iZs"
+      "https://www.youtube-nocookie.com/embed/N8YC8qgFXBA"
     ],
     "language": "spa",
     "country": "mx",
@@ -788,7 +832,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/19wtHZAcH1g"
+      "https://www.youtube-nocookie.com/embed/wOOn124_9YM"
     ],
     "language": "spa",
     "country": "mx",

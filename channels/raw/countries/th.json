@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y8LGD9jwVauVkj",
-    "name": "Cool Channel",
-    "iptv_urls": [
-      "https://live-iptv.cool-channel.com/cool/live-720P.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZPk578ujZjTXPa",
     "name": "DLTV 1",
     "iptv_urls": [
@@ -224,28 +213,6 @@
     "name": "MONO 29",
     "iptv_urls": [
       "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "chmBg2GBFNqXoJ",
-    "name": "Police TV",
-    "iptv_urls": [
-      "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IC0ZQA3k7HadtW",
-    "name": "SBB TV",
-    "iptv_urls": [
-      "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
