@@ -60,9 +60,7 @@
     "iptv_urls": [
       "https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TkmQUxZOZQo"
-    ],
+    "youtube_urls": [],
     "language": "zho",
     "country": "sg",
     "isGeoBlocked": false

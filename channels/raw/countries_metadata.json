@@ -303,7 +303,7 @@
     "country": "Cape Verde",
     "capital": "Praia",
     "timeZone": "Atlantic/Cape_Verde",
-    "hasChannels": false
+    "hasChannels": true
   },
   "CW": {
     "country": "Curaçao",
@@ -381,7 +381,7 @@
     "country": "Western Sahara",
     "capital": "El Aaiún",
     "timeZone": "Africa/El_Aaiun",
-    "hasChannels": true
+    "hasChannels": false
   },
   "ER": {
     "country": "Eritrea",
@@ -837,7 +837,7 @@
     "country": "Mongolia",
     "capital": "Ulaanbaatar",
     "timeZone": "Asia/Ulaanbaatar",
-    "hasChannels": true
+    "hasChannels": false
   },
   "MO": {
     "country": "Macau",

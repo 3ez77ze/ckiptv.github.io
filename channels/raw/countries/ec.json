@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "8Bv8hcX2tNuzZb",
+    "name": "Antena Uno RadioVideo",
+    "iptv_urls": [
+      "https://tvdatta.com:3578/live/antenaunolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "iptv_urls": [
@@ -59,17 +70,6 @@
     "name": "Clic TV",
     "iptv_urls": [
       "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uvYhuImFYPqlJm",
-    "name": "Curiquingue TV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/pjtv/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -429,17 +429,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xVqW7TFhiaRWy0",
-    "name": "Red TVE Ventanas",
-    "iptv_urls": [
-      "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SaGLTOGoC0bQPx",
     "name": "RTRTV",
     "iptv_urls": [
@@ -543,17 +532,6 @@
     "name": "UNIANDES TV",
     "iptv_urls": [
       "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9TUqw93GWA6FwZ",
-    "name": "Vos y TV",
-    "iptv_urls": [
-      "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

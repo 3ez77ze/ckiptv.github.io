@@ -70,7 +70,7 @@
     "name": "Banijay Bluelight: Real Life Hospital Documentaries",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gnNihAUHd0E"
+      "https://www.youtube-nocookie.com/embed/hAE-B0afHJM"
     ],
     "language": "eng",
     "country": "uk",
@@ -169,6 +169,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g1kSsRGdu6pjqO",
+    "name": "BBC News",
+    "iptv_urls": [
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A7FjWEoxfZfQRg",
     "name": "BBC News Europe",
     "iptv_urls": [
@@ -183,8 +195,7 @@
     "nanoid": "JhHpiYec647IOL",
     "name": "BBC News Pashto",
     "iptv_urls": [
-      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8",
-      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:world_service_stream_07/t=3840/v=pv14/b=5070016/main.m3u8"
+      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8"
     ],
     "youtube_urls": [],
     "language": "pus",
@@ -890,17 +901,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IfkJanzGXFP1d9",
     "name": "MyZen Wellbeing TV",
     "iptv_urls": [
@@ -986,6 +986,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QTx2fCYGXldh6h",
+    "name": "NOW 90s00s",
+    "iptv_urls": [
+      "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },

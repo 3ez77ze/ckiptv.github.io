@@ -147,9 +147,20 @@
     "name": "B SMART",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PkVAClm0dds"
+      "https://www.youtube-nocookie.com/embed/5V0SHM3xRZw"
     ],
     "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cGjSaev20uBBta",
+    "name": "Banijay Mr Bean Animé",
+    "iptv_urls": [
+      "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -653,6 +664,17 @@
     "nanoid": "kUPfKpGmxXWYT4",
     "name": "France 24",
     "iptv_urls": [
+      "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kUPfKpGmxXWYT4",
+    "name": "France 24",
+    "iptv_urls": [
       "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -710,25 +732,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4CWVkfpOd7mDjB",
-    "name": "France 24 French",
-    "iptv_urls": [
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8",
-      "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -958,6 +961,17 @@
     "name": "MyTime Movie Network France",
     "iptv_urls": [
       "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpkqoQyazekjjY",
+    "name": "Mytime Movies",
+    "iptv_urls": [
+      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1229,32 +1243,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
-    "iptv_urls": [
-      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3UupDDnNXaxwcR",
     "name": "Rakuten TV Films Comédie",
     "iptv_urls": [
       "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4OHJUKjDj7pE2U",
-    "name": "Rakuten TV Films Drames",
-    "iptv_urls": [
-      "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1488,6 +1480,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1611,7 +1604,8 @@
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "iptv_urls": [
-      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8"
+      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8",
+      "https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

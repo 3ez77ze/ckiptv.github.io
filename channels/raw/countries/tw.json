@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D4PGTuAkvHKzKK",
-    "name": "Global News",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pY4KeJg8q2gmE7",
     "name": "GlobalNews TV: International News",
     "iptv_urls": [],
@@ -209,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wH8uSy4eY6Yjt3",
-    "name": "Taiwan Plus TV",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8pEZrzkEvqMiL8",
     "name": "Taiwan SETNEWS",
     "iptv_urls": [],
@@ -298,17 +276,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MW80lEQ3Zwtft4",
-    "name": "中天新聞台",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TQpaFG24t16iNX",
     "name": "中天電視",
     "iptv_urls": [],
@@ -364,17 +331,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ebLo9KL8mzuF4O",
-    "name": "天才衝衝衝",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cmn",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xjMtwiJJliTsw0",
     "name": "新唐人亞太電視台NTDAPTV",
     "iptv_urls": [],
@@ -393,17 +349,6 @@
       "https://www.youtube-nocookie.com/embed/V1p33hqPrUk"
     ],
     "language": "zho",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HZkqDitQwqQ0R5",
-    "name": "東森購物60",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cmn",
     "country": "tw",
     "isGeoBlocked": false
   },

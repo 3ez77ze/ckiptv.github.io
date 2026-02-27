@@ -56,17 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgdcsAoxUBnS3U",
-    "name": "BTB HD",
-    "iptv_urls": [
-      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "iptv_urls": [
@@ -107,17 +96,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "iptv_urls": [
-      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -177,6 +155,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KFX8r91Rf69oJB",
+    "name": "Kapitan Bomba",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3odTnHWmZYo"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ulzRgEHfvju1VV",
     "name": "Mazowsze.tv",
     "iptv_urls": [
@@ -214,7 +203,8 @@
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "iptv_urls": [
-      "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8"
+      "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8",
+      "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -453,6 +443,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eR7HsNDqvDnpND",
+    "name": "TNA Wrestling Channel",
+    "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rg1mqweNVc3OwT",
     "name": "TOP Barca",
     "iptv_urls": [
@@ -530,10 +531,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Se7x9HGaZbNY8X",
+    "name": "TVP Info",
+    "iptv_urls": [
+      "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fzamcn1eHJ76Mf",
     "name": "TVP Polonia",
     "iptv_urls": [
-      "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8",
       "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -545,7 +556,6 @@
     "nanoid": "2NOHQqe5XXGwtZ",
     "name": "TVP World",
     "iptv_urls": [
-      "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8",
       "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
     ],
     "youtube_urls": [],

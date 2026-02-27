@@ -143,6 +143,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sJ0IwCxQ3PFQw5",
+    "name": "MTV3",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z3QTyvg0mqUEif",
     "name": "NärTV",
     "iptv_urls": [
@@ -161,6 +172,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2woYjnnnE6JSW8",
+    "name": "Nopola News",
+    "iptv_urls": [
+      "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "fi",
     "isGeoBlocked": false
   },

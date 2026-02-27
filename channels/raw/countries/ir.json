@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "oKPWYpqDC2QiXh",
-    "name": "247 Box TV",
-    "iptv_urls": [
-      "https://hls.247box.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CvmbQC914eDeza",
     "name": "Abadan",
     "iptv_urls": [
@@ -172,28 +161,6 @@
     ],
     "youtube_urls": [],
     "language": "ara",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IAAjOwAYELwdi",
-    "name": "Atrina TV",
-    "iptv_urls": [
-      "https://atrihls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tSSDR7KimuYCdS",
-    "name": "AVA Family",
-    "iptv_urls": [
-      "https://familyhls.avatv.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
     "country": "ir",
     "isGeoBlocked": false
   },

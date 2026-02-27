@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KbaV0qyfK90k60",
-    "name": "Aeolos TV",
-    "iptv_urls": [
-      "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iaXW6RecjncP1a",
     "name": "ART TV",
     "iptv_urls": [
@@ -92,6 +81,17 @@
     "name": "Blue Sky TV",
     "iptv_urls": [
       "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0iu8NXGmAws9mO",
+    "name": "Corfu Channel",
+    "iptv_urls": [
+      "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -192,6 +192,17 @@
     "name": "Notioi TV",
     "iptv_urls": [
       "https://srv.streamserver.gr:3451/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pjEgd6IVJGjdu8",
+    "name": "NRG TV",
+    "iptv_urls": [
+      "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",

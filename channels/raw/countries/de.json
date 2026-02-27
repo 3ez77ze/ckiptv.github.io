@@ -425,10 +425,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W9Bp7ViyOHjoax",
-    "name": "EWTN Germany",
+    "nanoid": "uDLeBfdzdIX1Oi",
+    "name": "EWTN",
     "iptv_urls": [
-      "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8",
       "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -452,6 +451,17 @@
     "name": "Filstalwelle",
     "iptv_urls": [
       "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JUHY7ZFUwE8O9n",
+    "name": "Finest TV",
+    "iptv_urls": [
+      "https://media.finest.tv/hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -748,8 +758,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3RqH2CA3gTproY",
-    "name": "MDR Fernsehen Thüringen",
+    "nanoid": "D9DLpbpBMDweEB",
+    "name": "MDR Fernsehen Thuringen",
     "iptv_urls": [
       "https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8"
     ],
@@ -792,10 +802,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nSKKagLIpNXooQ",
-    "name": "Naruto Germany",
+    "nanoid": "1vBPSqBW9LaA0Z",
+    "name": "MyTime Movie Network Germany",
     "iptv_urls": [
-      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -806,7 +816,6 @@
     "nanoid": "Z6guN3S2lbqSQy",
     "name": "NDR Fernsehen International",
     "iptv_urls": [
-      "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
       "https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1516,8 +1525,6 @@
     "nanoid": "xafAIlECB4fMek",
     "name": "WDR Fernsehen",
     "iptv_urls": [
-      "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8",
-      "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
       "https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
