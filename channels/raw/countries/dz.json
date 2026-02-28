@@ -9,5 +9,27 @@
     "language": "ara",
     "country": "dz",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7727V1cEeZVF03",
+    "name": "Amou Yazid TV",
+    "iptv_urls": [
+      "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bNjt1Zyln6UiRM",
+    "name": "CNA",
+    "iptv_urls": [
+      "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
   }
 ]
