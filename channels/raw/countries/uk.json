@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D7VFmOI3zi3PoW",
+    "name": "Al Jazeera English",
+    "iptv_urls": [
+      "https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BDVUYXaNXNi52q",
     "name": "Amazing World of Gumball",
     "iptv_urls": [],
