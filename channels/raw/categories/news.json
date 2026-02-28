@@ -1066,6 +1066,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UfxB1SmU0yadiy",
+    "name": "Al Jazeera Arabic",
+    "iptv_urls": [
+      "https://live-hls-web-aja.getaj.net/AJA/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RT940A59Teonvk",
     "name": "Al Jazeera English",
     "iptv_urls": [
@@ -1076,6 +1087,17 @@
     ],
     "language": "eng",
     "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D7VFmOI3zi3PoW",
+    "name": "Al Jazeera English",
+    "iptv_urls": [
+      "https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
