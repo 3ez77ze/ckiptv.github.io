@@ -62328,5 +62328,27 @@
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UotL7ygm_wfot6",
+    "name": "Panorama TV",
+    "iptv_urls": [
+      "https://panoramatv.al/panorama/livestream/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JzLdbO6AI0_IyQ",
+    "name": "Alb Kanale MusicTV",
+    "iptv_urls": [
+      "https://secured.albportal.net:2083/AlbKanaleMusicTv/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sqi",
+    "country": "al",
+    "isGeoBlocked": false
   }
 ]
