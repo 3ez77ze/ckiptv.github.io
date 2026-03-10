@@ -352,5 +352,16 @@
     "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FEM2dB7a0HOA2R",
+    "name": "Live Earthquake Warning Japan",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZeZ049BUy8Q"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
   }
 ]

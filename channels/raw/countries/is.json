@@ -31,5 +31,16 @@
     "language": "isl",
     "country": "is",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dIjBbAfUGAG9jI",
+    "name": "Unknown Icelandic Live Cam",
+    "iptv_urls": [
+      "https://s101.ipcamlive.com/streams/65vwsptpf04m5ugin/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "isl",
+    "country": "is",
+    "isGeoBlocked": false
   }
 ]

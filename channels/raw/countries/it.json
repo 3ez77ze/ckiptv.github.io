@@ -1669,5 +1669,16 @@
     "language": "",
     "country": "it",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWsD8vhbGLUcKU",
+    "name": "Venice Live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JqUREqYduHw"
+    ],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
   }
 ]
