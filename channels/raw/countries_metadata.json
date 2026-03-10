@@ -147,7 +147,7 @@
     "country": "Saint Barthélemy",
     "capital": "Gustavia",
     "timeZone": "America/St_Barthelemy",
-    "hasChannels": false
+    "hasChannels": true
   },
   "BM": {
     "country": "Bermuda",

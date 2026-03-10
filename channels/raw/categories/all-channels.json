@@ -62438,5 +62438,60 @@
     "language": "por",
     "country": "ao",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OCY6xiB0OldLSq",
+    "name": "St Barth Live Airport",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3PQNnVqrJEw"
+    ],
+    "language": "fra",
+    "country": "bl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dIjBbAfUGAG9jI",
+    "name": "Unknown Icelandic Live Cam",
+    "iptv_urls": [
+      "https://s101.ipcamlive.com/streams/65vwsptpf04m5ugin/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "isl",
+    "country": "is",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gLRBHyhGrcpCG0",
+    "name": "LiveStream RailCam",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TcJvbahPke8"
+    ],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWsD8vhbGLUcKU",
+    "name": "Venice Live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JqUREqYduHw"
+    ],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FEM2dB7a0HOA2R",
+    "name": "Live Earthquake Warning Japan",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZeZ049BUy8Q"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
   }
 ]
