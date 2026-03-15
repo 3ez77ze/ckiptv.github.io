@@ -170,6 +170,28 @@
       margin-top: 2px;
     }
 
+    .country-time {
+      text-align: right;
+      min-width: 128px;
+      flex-shrink: 0;
+    }
+
+    .country-time-label {
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: var(--text-muted);
+    }
+
+    .country-time-value {
+      font-size: 1rem;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      color: var(--text-primary);
+      margin-top: 4px;
+    }
+
     /* ---- Transport Controls ---- */
     .transport-controls {
       display: flex;
@@ -351,6 +373,7 @@
 
     .stat-value.accent { color: var(--accent-hover); }
     .stat-value.warning { color: var(--warning); }
+    .stat-value.danger { color: var(--danger); }
 
     /* ---- Sidebar ---- */
     .sidebar {
@@ -547,6 +570,8 @@
       .stats-bar { grid-template-columns: repeat(2, 1fr); }
       .station-info { gap: 12px; }
       .station-name { font-size: 1rem; }
+      .country-time { min-width: 104px; }
+      .country-time-value { font-size: 0.9rem; }
     }
   </style>
 </head>
@@ -572,6 +597,10 @@
         <div class="station-details">
           <div class="station-name" id="stationName">Select a station</div>
           <div class="station-meta" id="stationMeta">Choose a radio station from the sidebar</div>
+        </div>
+        <div class="country-time">
+          <div class="country-time-label">Local Time</div>
+          <div class="country-time-value" id="countryTimeValue">--:--:--</div>
         </div>
       </div>
 
@@ -689,6 +718,7 @@
     let uptimeStart = null;
     let uptimeInterval = null;
     let pingInterval = null;
+    let countryTimeInterval = null;
 
     function initAudioContext() {
       if (audioCtx) return;
@@ -758,7 +788,7 @@
           if (stats && stats.loading) {
             const ttfb = stats.loading.first - stats.loading.start;
             if (ttfb >= 0 && ttfb < 10000) {
-              document.getElementById('statPing').textContent = Math.round(ttfb) + 'ms';
+              setPingValue(Math.round(ttfb));
             }
           }
         });
@@ -813,6 +843,7 @@
       document.getElementById('stationAvatar').textContent = st.code;
       document.getElementById('stationName').textContent = st.name;
       document.getElementById('stationMeta').textContent = st.country + ' \u2022 Live';
+      startCountryTime(st);
     }
 
     // ---- Volume ----
@@ -907,19 +938,70 @@
       document.getElementById('statBitrate').textContent = '128k';
     }
 
+    function setPingValue(ms) {
+      const pingEl = document.getElementById('statPing');
+      pingEl.textContent = ms + 'ms';
+      pingEl.classList.remove('warning', 'danger');
+      if (ms >= 300) {
+        pingEl.classList.add('danger');
+      } else if (ms >= 150) {
+        pingEl.classList.add('warning');
+      }
+    }
+
     function measurePing(url) {
+      const pingEl = document.getElementById('statPing');
       if (pingInterval) clearInterval(pingInterval);
       const doPing = () => {
         const start = performance.now();
         fetch(url, { method: 'HEAD', mode: 'no-cors', cache: 'no-store' })
           .then(() => {
             const ms = Math.round(performance.now() - start);
-            document.getElementById('statPing').textContent = ms + 'ms';
+            setPingValue(ms);
           })
-          .catch(() => {});
+          .catch(() => {
+            pingEl.textContent = '--';
+            pingEl.classList.remove('warning', 'danger');
+          });
       };
       doPing();
       pingInterval = setInterval(doPing, 5000);
+    }
+
+    function getTimeZoneByCountryCode(code) {
+      const timeZones = {
+        AL: 'Europe/Tirane',
+        KP: 'Asia/Pyongyang',
+        DE: 'Europe/Berlin',
+        AR: 'Asia/Riyadh',
+        UK: 'Europe/London',
+        GB: 'Europe/London',
+        SM: 'Europe/San_Marino',
+        GI: 'Europe/Gibraltar',
+        LU: 'Europe/Luxembourg',
+        SH: 'Atlantic/St_Helena',
+        AE: 'Asia/Dubai'
+      };
+      return timeZones[code] || 'UTC';
+    }
+
+    function updateCountryTime(st) {
+      if (!st) return;
+      const timeZone = getTimeZoneByCountryCode(st.code);
+      const now = new Intl.DateTimeFormat('en-GB', {
+        timeZone,
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
+      }).format(new Date());
+      document.getElementById('countryTimeValue').textContent = now;
+    }
+
+    function startCountryTime(st) {
+      if (countryTimeInterval) clearInterval(countryTimeInterval);
+      updateCountryTime(st);
+      countryTimeInterval = setInterval(() => updateCountryTime(st), 1000);
     }
 
     // ---- Audio Events ----
