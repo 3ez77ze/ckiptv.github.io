@@ -17,7 +17,7 @@ export default async (request) => {
     return new Response("Missing url parameter", { status: 400 });
   }
 
-  // Only allow proxying netplus.ch domains for security
+  // Only allow trusted upstream domains for security
   let parsed;
   try {
     parsed = new URL(streamUrl);
@@ -25,7 +25,11 @@ export default async (request) => {
     return new Response("Invalid URL", { status: 400 });
   }
 
-  if (!parsed.hostname.endsWith("netplus.ch")) {
+  const allowedHosts = new Set(["23.88.66.93"]);
+  const isAllowedDomain = parsed.hostname.endsWith("netplus.ch");
+  const isAllowedHost = allowedHosts.has(parsed.hostname);
+
+  if (!isAllowedDomain && !isAllowedHost) {
     return new Response("Domain not allowed", { status: 403 });
   }
 

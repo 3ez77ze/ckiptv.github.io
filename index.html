@@ -1852,10 +1852,22 @@
       const ytUrl = ch.youtube_urls?.[0];
       const embedUrl2 = ch.embed_urls?.[0];
 
-      // Route redirect-based URLs through the server-side proxy to handle CORS
+      // Route redirect-based or insecure URLs through the server-side proxy
       let iptvUrl = rawIptvUrl;
-      if (rawIptvUrl && rawIptvUrl.includes('viamotionhsi.netplus.ch')) {
-        iptvUrl = '/api/stream-proxy?url=' + encodeURIComponent(rawIptvUrl);
+      if (rawIptvUrl) {
+        let parsedUrl = null;
+        try {
+          parsedUrl = new URL(rawIptvUrl);
+        } catch (_) {
+          parsedUrl = null;
+        }
+
+        const isHttpStream = parsedUrl?.protocol === 'http:';
+        const isKnownRedirectDomain = parsedUrl?.hostname?.includes('viamotionhsi.netplus.ch');
+
+        if (isHttpStream || isKnownRedirectDomain) {
+          iptvUrl = '/api/stream-proxy?url=' + encodeURIComponent(rawIptvUrl);
+        }
       }
 
       if (iptvUrl) {
